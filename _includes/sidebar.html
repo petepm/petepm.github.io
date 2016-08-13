@@ -26,6 +26,8 @@
         {% endif %}
       {% endfor %}
 
+      <a class="sidebar-nav-item" href="https://youtube.com/petepetersonmusic">Video</a>
+
       {% comment %}
         Now add album pages
       {% endcomment %}
@@ -36,7 +38,7 @@
       {% for node in albums_list %}
         {% if node.title != null %}
           {% if node.layout == "page" and node.pagetype == "album" %}
-            <a style="padding-left: 20px" class="sidebar-nav-sub{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+            <a style="padding-left: 20px; padding-right: 20px" class="sidebar-nav-sub{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}
         {% endif %}
       {% endfor %}
