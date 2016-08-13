@@ -32,13 +32,13 @@
         Now add album pages
       {% endcomment %}
 
-      <a class="sidebar-nav-item" href="/music">Music</a>
+      <a class="sidebar-nav-item{% if page.url == '/music/' %}  active{% endif %}" href="/music">Music</a>
 
       {% assign albums_list = site.pages | sort: "date" | reverse %}
       {% for node in albums_list %}
         {% if node.title != null %}
           {% if node.layout == "page" and node.pagetype == "album" %}
-            <a style="padding-left: 20px; padding-right: 20px" class="sidebar-nav-sub{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %} subitem" href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}
         {% endif %}
       {% endfor %}
