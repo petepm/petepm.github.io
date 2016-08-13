@@ -1,6 +1,6 @@
 ---
 comments: false
-date: 2013-02-09 00:32:15+00:00
+date: 2013-02-09
 layout: page
 slug: music
 title: Music

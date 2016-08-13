@@ -1,9 +1,9 @@
 ---
 comments: false
-date: 2013-02-09 23:43:15+00:00
 layout: page
-slug: songs-these-are-songs
 title: Songs, These Are Songs
+pagetype: album
+date: 2012-03-15
 ---
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=1876446436/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://petepeterson.bandcamp.com/album/songs-these-are-songs">Songs, These Are Songs by Pete Peterson</a></iframe>

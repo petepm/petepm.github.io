@@ -1,8 +1,9 @@
 ---
 comments: false
 layout: page
-slug: transitional-farms
 title: Transitional Farms
+pagetype: album
+date: 2011-07-14
 ---
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=577996353/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://petepeterson.bandcamp.com/album/transitional-farms">Transitional Farms by Pete Peterson</a></iframe>

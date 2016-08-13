@@ -1,9 +1,11 @@
 ---
 comments: false
-date: 2015-04-15 18:22:06+00:00
+date: 2015-04-15
 layout: page
 slug: translational-frames
 title: Translational Frames
+album: Synchronized Seasoning
+trackno: 1
 ---
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/200963019&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

@@ -1,8 +1,10 @@
 ---
 comments: false
-date: 2013-02-11 23:06:04+00:00
+date: 2013-02-11
 layout: page
 title: Idiot Christmas
+album: Songs, These Are Songs
+trackno: 2
 ---
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/9996383&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

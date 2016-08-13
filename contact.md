@@ -1,6 +1,6 @@
 ---
 comments: false
-date: 2013-02-11 23:10:01+00:00
+date: 2013-02-11
 layout: page
 slug: contact
 title: Contact
