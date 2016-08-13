@@ -73,7 +73,9 @@ A tempo is also measured in units of frequency. Semi-coincidentally, the tempo
 of this song (154.6875 BPM) is a super super low octave of the fifth in the key
 of A, so to speak, which can be calculated as
 
-\[ 110 \frac{\mathrm{cycles}}{\mathrm{second}} \times \frac{3}{2} \times 60 \frac{\mathrm{seconds}}{\mathrm{minute}} \div (2^6) = 154.6875. \]
+$$
+110 \frac{\mathrm{cycles}}{\mathrm{second}} \times \frac{3}{2} \times 60 \frac{\mathrm{seconds}}{\mathrm{minute}} \div (2^6) = 154.6875.
+$$
 
 
 ## A harmonic tempo change
