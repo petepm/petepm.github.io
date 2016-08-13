@@ -10,6 +10,7 @@ tagline:          "Pete Peterson Music"
 description:      ""
 url:              http://petepetersonmusic.com
 baseurl:          /
+permalink:        /:title
 
 author:
   name:           "Pete Peterson"
