@@ -38,7 +38,7 @@ be analogous to a "power chord."
 
 ### Rhythmic harmony in the woods
 
-![Figure 1. Keyroll for the wood percussion part.](/images/tf-wood-labeled.png)
+[![Figure 1. Keyroll for the wood percussion part.](/images/tf-wood-labeled.png)](/images/tf-wood-labeled.png)
 **Figure 1:** Keyroll for the wood percussion part.
 
 The wood blocks use a "root rhythm" or interval based on a pattern that repeats
@@ -54,7 +54,7 @@ i.e., the major 3rd. See Figure 1 for an illustration.
 
 ### Self-similar rhythmic harmony in the bells
 
-![Figure 2: Keyroll for the bells.](/images/tf-bells-labeled.png)
+[![Figure 2: Keyroll for the bells.](/images/tf-bells-labeled.png)](/images/tf-bells-labeled.png)
 **Figure 2:** Keyroll for the bells.
 
 In addition to having harmonic ratios between the frequencies of the bells'
