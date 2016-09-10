@@ -20,27 +20,27 @@ aren't my own, and that's all I can say...
 
 ## Lyrics
 
->I'm an alley cat baby and I'm goin' astray
-I ain't no saint best get out of my way
-I see these fat cats scammin' and it just don't feel right
+>I'm an alley cat baby and I'm goin' astray<br>
+I ain't no saint best get out of my way<br>
+I see these fat cats scammin' and it just don't feel right<br>
 Ya better get ready 'cause I'm lookin' to fight
 >
-'Cause I'm an alley cat baby and I'm goin' astray
+'Cause I'm an alley cat baby and I'm goin' astray<br>
 I'm an alley cat baby and I'm goin' today
 >
-I'm an alley cat baby as I walk through the street
-A keen observin' undeservin' and I'm feeling complete
-I see these hopped up rats runnin' all over town
+I'm an alley cat baby as I walk through the street<br>
+A keen observin' undeservin' and I'm feeling complete<br>
+I see these hopped up rats runnin' all over town<br>
 Untrustin' and disgustin' and I'm bringin' it down
 >
-I don't feel like gettin' outta bed today
-There's nothin' you can do
-I missed a test and I think it'd be best if I shank my sorrows for you
-I'm gonna shank
-I'm going to shank
-Shank my sorrows away
-I'm gonna shank
-I'm going to shank
+I don't feel like gettin' outta bed today<br>
+There's nothin' you can do<br>
+I missed a test and I think it'd be best if I shank my sorrows for you<br>
+I'm gonna shank<br>
+I'm going to shank<br>
+Shank my sorrows away<br>
+I'm gonna shank<br>
+I'm going to shank<br>
 Shank shank shankin' my sorrows away
 >
 Time to bring it down alley cat style

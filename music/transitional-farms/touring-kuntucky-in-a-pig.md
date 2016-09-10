@@ -23,23 +23,23 @@ that isn't plagiarism.
 
 ## Lyrics
 
->Pressure fluctuating but it's only time that creates things in here
-Mystic hexagrams from conic sections
-Cycloid quadrature, my own selection
-That matrix exponential thing
+>Pressure fluctuating but it's only time that creates things in here<br>
+Mystic hexagrams from conic sections<br>
+Cycloid quadrature, my own selection<br>
+That matrix exponential thing<br>
 Those patterns Fibonacci brings
 >
-Simplifying fluid from Torricelli
-Coefficients turn to geometry
-The cosmic wager on your own
-It's something we have never known
-And I'm just having too much fun fun fun fun
-The zeroth row is only
-one
-one one
-one one-two one
-one one-two-thre one-two-three one
-one one-two-three-four...</blockquote>
+Simplifying fluid from Torricelli<br>
+Coefficients turn to geometry<br>
+The cosmic wager on your own<br>
+It's something we have never known<br>
+And I'm just having too much fun fun fun fun<br>
+The zeroth row is only<br>
+one<br>
+one one<br>
+one one-two one<br>
+one one-two-three one-two-three one<br>
+one one-two-three-four...
 
 
 ## Video

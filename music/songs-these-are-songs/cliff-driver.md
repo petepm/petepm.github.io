@@ -26,56 +26,56 @@ This little ditty, originally recorded in 2009, was supposed to be on a compilat
 
 ## Lyrics
 
->What was the mistake that brought me back here?
-I'm feeling like I'm running out of air
-A voluntary torturous affair
+>What was the mistake that brought me back here?<br>
+I'm feeling like I'm running out of air<br>
+A voluntary torturous affair<br>
 I'm floating in this poison to become unaware
 >
-Focused negativity
-Can clear this sphere of confusion surrounding me
-Long have I gone with nobody catching my drift
+Focused negativity<br>
+Can clear this sphere of confusion surrounding me<br>
+Long have I gone with nobody catching my drift<br>
 I'm driving off of a cliff
 >
-This commodity
-So many locks but never the proper key
-Lost in my mind I'll sit here and wait for the shift
+This commodity<br>
+So many locks but never the proper key<br>
+Lost in my mind I'll sit here and wait for the shift<br>
 I'm driving off of a cliff
 >
-Got to slide
-Back inside
+Got to slide<br>
+Back inside<br>
 Why go through this ritual when we are only trying to fuck?
 >
-Don't be shy
-Make that face and sell it
-Drive away
+Don't be shy<br>
+Make that face and sell it<br>
+Drive away<br>
 Building layers of some
 >
-Insulation
+Insulation<br>
 Just get me my guitar and I'll play myself a solo just for fun
 >
-I'm trying to evolve my own amusement
-Ears won't stop ringing from all the cover bands singing
+I'm trying to evolve my own amusement<br>
+Ears won't stop ringing from all the cover bands singing<br>
 Feel like a drone
 >
-Ooh, ooh yeah I just don't fit in anywhere
-It's getting hard to defend
+Ooh, ooh yeah I just don't fit in anywhere<br>
+It's getting hard to defend<br>
 And I don't think that I can train myself to care
 >
-I'm driving away, driving away
-I'm done with wasting my hearing if you got nothin' to say
-I'm driving away
-I'm leaving tonight in the rain
-It takes its toll on my so-called soul
+I'm driving away, driving away<br>
+I'm done with wasting my hearing if you got nothin' to say<br>
+I'm driving away<br>
+I'm leaving tonight in the rain<br>
+It takes its toll on my so-called soul<br>
 It's driving me insane
 >
-It kills me to be happy
-No productivity
-So unhip, just want to quit
+It kills me to be happy<br>
+No productivity<br>
+So unhip, just want to quit<br>
 Done with this industry
 >
-Done with mistakes that will lead here
-Getting out and getting fresh air
-Waking up from this nightmare
-Driving off a cliff!
-Focusing, become aware
+Done with mistakes that will lead here<br>
+Getting out and getting fresh air<br>
+Waking up from this nightmare<br>
+Driving off a cliff!<br>
+Focusing, become aware<br>
 Driving up a giant fucking cliff, yeah!

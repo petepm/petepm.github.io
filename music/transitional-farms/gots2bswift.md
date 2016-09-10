@@ -43,54 +43,54 @@ The F major scale: F G A Bb C D E
 
 ## Lyrics
 
->Hard to see I'm just staring at a gray sky
-I've been gone for years and many hoped I'd died
-Seen some things that I will never see again
+>Hard to see I'm just staring at a gray sky<br>
+I've been gone for years and many hoped I'd died<br>
+Seen some things that I will never see again<br>
 Will you remember me the way that I was then?
 >
-Find my body washed up on a new and strange shore
-Tiny men they're fighting in their tiny war
-Can't relate and I'm not welcome anymore
+Find my body washed up on a new and strange shore<br>
+Tiny men they're fighting in their tiny war<br>
+Can't relate and I'm not welcome anymore<br>
 On my own still searching yet don't know what for
 >
-Fall into a higher level
-Mixing things that could be special
-Then my plan blows right up in my face
-We are sorry you must leave this place
+Fall into a higher level<br>
+Mixing things that could be special<br>
+Then my plan blows right up in my face<br>
+We are sorry you must leave this place<br>
 Even though you don't take up much space
 >
-No! They stared into the sun
-They said their world is done
-Intelligent conversation in one direction
-End of the world
+No! They stared into the sun<br>
+They said their world is done<br>
+Intelligent conversation in one direction<br>
+End of the world<br>
 Ball
 >
-I! Have got to find my way
-Perfection still gets old
-Try but they just won't get the message
+I! Have got to find my way<br>
+Perfection still gets old<br>
+Try but they just won't get the message<br>
 I'm out into the cold
 >
-Hey man! We are the mighty Strolbrogs!
-We kill everything!
+Hey man! We are the mighty Strolbrogs!<br>
+We kill everything!<br>
 Taste what immortality brings!
 >
-Horsies, yahoos, mental, health
+Horsies, yahoos, mental, health<br>
 I am only gonna hurt you baby I suggest you give me some time and gimme space
 >
-Lost, alone, far from home
-Things I've seen, you won't believe
-Leave? We just can't let you leave now
-I have grown to the stars
+Lost, alone, far from home<br>
+Things I've seen, you won't believe<br>
+Leave? We just can't let you leave now<br>
+I have grown to the stars<br>
 Things I've shown won't go far
 >
-Babe, I sure miss you
-And I assure that you can be sure every single thing that I have told to you it true
+Babe, I sure miss you<br>
+And I assure that you can be sure every single thing that I have told to you it true<br>
 Wow!
 >
-You're losing with me
-The possibility to reconcile with all that's shallow and vile embedded in society
-I've got perspective between myself and thee
-Just stay one of another kind of sort of on the cover of a page of a script
-Thoughts are adrift
-Give you a lift
-Drive off a cliff</blockquote>
+You're losing with me<br>
+The possibility to reconcile with all that's shallow and vile embedded in society<br>
+I've got perspective between myself and thee<br>
+Just stay one of another kind of sort of on the cover of a page of a script<br>
+Thoughts are adrift<br>
+Give you a lift<br>
+Drive off a cliff

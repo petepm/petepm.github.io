@@ -17,53 +17,53 @@ drums were recorded at Taylor Larson's studio in Bethesda, MD.
 
 ## Lyrics
 
->‘Tis the appropriate season to recount the tale
-Of a quaint polar workshop that was too big to ummmm, fail
-Some warned it was likely the boom was a bubble
+>‘Tis the appropriate season to recount the tale<br>
+Of a quaint polar workshop that was too big to ummmm, fail<br>
+Some warned it was likely the boom was a bubble<br>
 But no one could pinpoint the cause of the trouble
 >
-Hey, the north pole's economy
-Has been hijacked quite financially
-At the reins are snowmen creditors with sole responsibility
+Hey, the north pole's economy<br>
+Has been hijacked quite financially<br>
+At the reins are snowmen creditors with sole responsibility<br>
 Killing fiscally
 >
-While pretending it would not happen at all
-The price of gingerbread it then instead begins to fall
-Santa needs those snowmen and agrees
+While pretending it would not happen at all<br>
+The price of gingerbread it then instead begins to fall<br>
+Santa needs those snowmen and agrees<br>
 It must be regulation that's been spreading this disease
 >
-Those hard working elves
-Working by themselves
-Making less, working more
-It's the old class war
+Those hard working elves<br>
+Working by themselves<br>
+Making less, working more<br>
+It's the old class war<br>
 Not fair not fair it's so not fair
 >
-It isn't impossible to get your tokens for free
-Collecting the compounding interest perpetually
-Predicting the downfall of others an option to make one so rich
+It isn't impossible to get your tokens for free<br>
+Collecting the compounding interest perpetually<br>
+Predicting the downfall of others an option to make one so rich<br>
 If you're the loser well sorry your life's such a bitch
 >
-Investment is useful for finding efficiency
-Among the ones who put wealth in effectively
-But when the tokens are made only virtually
+Investment is useful for finding efficiency<br>
+Among the ones who put wealth in effectively<br>
+But when the tokens are made only virtually<br>
 Things just turn to shit!
 >
-Oh yeah they speculate!
-Attempting to reap the rewards of the things they did not help create
-But when there's no memory where it came
+Oh yeah they speculate!<br>
+Attempting to reap the rewards of the things they did not help create<br>
+But when there's no memory where it came<br>
 It makes it so hard to determine if the price and value are the same
 >
-But these guys were to see their plans
-Head straight for a clash with reality
-True, wind mills and stagecoaches run on sunshine but
+But these guys were to see their plans<br>
+Head straight for a clash with reality<br>
+True, wind mills and stagecoaches run on sunshine but<br>
 Some how how how how need to be cared for diligently
 >
-Here comes old Santa to rescue the ones that were wrong
-So they could go back to the schemes that they pulled all along
-He changed up the game so if you risk and fail
-You will not need to suffer 'cause out you'll be bailed!
-And meanwhile the elves are just keeping afloat and trying to capture some wind in the sails
-The system relies on the fact that no one out there can figure out what this really entails
+Here comes old Santa to rescue the ones that were wrong<br>
+So they could go back to the schemes that they pulled all along<br>
+He changed up the game so if you risk and fail<br>
+You will not need to suffer 'cause out you'll be bailed!<br>
+And meanwhile the elves are just keeping afloat and trying to capture some wind in the sails<br>
+The system relies on the fact that no one out there can figure out what this really entails<br>
 Besides that won't impress females
 
 

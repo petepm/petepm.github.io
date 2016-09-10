@@ -48,45 +48,45 @@ This part came from the lyrics in a way. The "Bugs, we are bugs; bugs is what we
 
 >[Various alien scientists listening to some bad tunes while discussing the results of their experiment]
 >
-100,000 years now down the tubes
-And so predictable too
-Mathematically deterministic compounding exponential catastrophic
+100,000 years now down the tubes<br>
+And so predictable too<br>
+Mathematically deterministic compounding exponential catastrophic<br>
 Same from the big BANG
 >
-Life, simplicity, feeding back into itself similarity unfolding chaotic processes absorbing waves then rejecting entropy systematic recursion leaving anonymity.
+Life, simplicity, feeding back into itself similarity unfolding chaotic processes absorbing waves then rejecting entropy systematic recursion leaving anonymity
 >
-Let me get this straight
-Everywhere I go
-Everybody’s seen
-Everybody knows
-If we came down from you
-Then you came from who?
-Then it’s only one more layer
+Let me get this straight<br>
+Everywhere I go<br>
+Everybody’s seen<br>
+Everybody knows<br>
+If we came down from you<br>
+Then you came from who?<br>
+Then it’s only one more layer<br>
 In the onion of our truth
 >
-Sorry we never told you
-We prescribed the ingredients
-Then chose the mold to create your experience
+Sorry we never told you<br>
+We prescribed the ingredients<br>
+Then chose the mold to create your experience<br>
 Not quite the first to observe orbits of the spheres
 >
-[Time in our case
-Far away in outer space
-Looking to comprehend
+[Time in our case<br>
+Far away in outer space<br>
+Looking to comprehend<br>
 Not quite first to observe orbits of the spheres]
 >
-Bugs, you are bugs!
+Bugs, you are bugs!<br>
 Bugs, we are bugs!
 >
-I, I’m just a bug
-I know it’s true
-Only a bug but then again so are you
-But we are still part of the universe
-We’re flying around
-Building walls in our towns
-Hardly know anything
-That we could, that we should
-But it feels so good everyday
-We don’t live that long anyway</blockquote>
+I, I’m just a bug<br>
+I know it’s true<br>
+Only a bug but then again so are you<br>
+But we are still part of the universe<br>
+We’re flying around<br>
+Building walls in our towns<br>
+Hardly know anything<br>
+That we could, that we should<br>
+But it feels so good everyday<br>
+We don’t live that long anyway
 
 
 ## Video

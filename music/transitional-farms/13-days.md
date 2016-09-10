@@ -35,40 +35,40 @@ guy. Miracles bro.
 
 ## Lyrics
 
->Time to go to bed
-Time to go to sleep
-Dreams that lie ahead
-Won’t be your relief
-One foot in this world
+>Time to go to bed<br>
+Time to go to sleep<br>
+Dreams that lie ahead<br>
+Won’t be your relief<br>
+One foot in this world<br>
 The spiral makes another swirl
 >
-Wrote down all you said
-Counted all your sheep
-Packed up all your things
-Things you’ll need to keep
-Soon you’re surely see
+Wrote down all you said<br>
+Counted all your sheep<br>
+Packed up all your things<br>
+Things you’ll need to keep<br>
+Soon you’re surely see<br>
 It costs a lot just to be free
 >
-I won’t miss you
-In other words
-Our paths will cross someday
+I won’t miss you<br>
+In other words<br>
+Our paths will cross someday<br>
 I will find your way
 >
-Questioning the best
-What’s inside the chest
-Seems eternally
-Like we’ll never be
-Gone for thirteen days
+Questioning the best<br>
+What’s inside the chest<br>
+Seems eternally<br>
+Like we’ll never see<br>
+Gone for thirteen days<br>
 And drifting slowly out of phase
 >
-Questioning your strength
-Is it well-received?
-Time projects a length
-Harder to perceive
+Questioning your strength<br>
+Is it well-received?<br>
+Time projects a length<br>
+Harder to perceive<br>
 Is this even relevant now?
 >
-I have been in bed
-I have been asleep
-Longer than I ought
-Time to be complete
+I have been in bed<br>
+I have been asleep<br>
+Longer than I ought<br>
+Time to be complete<br>
 So complete

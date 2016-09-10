@@ -103,62 +103,62 @@ are at least somewhat fun for you to think about!
 
 ## The lyrics
 
->Climbed atop the tiny hill
-Sitting in the shadow of the mountain
-Now groaning slowly dying
-Halfway made of stone
-That's the key
-Had one chance to set the boundary
-Became the ghost
-Appeared on toast
+>Climbed atop the tiny hill<br>
+Sitting in the shadow of the mountain<br>
+Now groaning slowly dying<br>
+Halfway made of stone<br>
+That's the key<br>
+Had one chance to set the boundary<br>
+Became the ghost<br>
+Appeared on toast<br>
 L-O-S
 >
-Tea helps climb those steep walls
-And when you hit them beans
-You'll grind them all
+Tea helps climb those steep walls<br>
+And when you hit them beans<br>
+You'll grind them all<br>
 [Get the fuck out now]
 >
-Oh the roads and wondering how far they go
-So sorry but I'm not home now
-Livin' in a groove in a grove
-Since I dove
-Along the sea
-Salt in synchronicity
-Pendulum swingin' out and seekin' a healthy fruitin' tree
-I lost a peel
+Oh the roads and wondering how far they go<br>
+So sorry but I'm not home now<br>
+Livin' in a groove in a grove<br>
+Since I dove<br>
+Along the sea<br>
+Salt in synchronicity<br>
+Pendulum swingin' out and seekin' a healthy fruitin' tree<br>
+I lost a peel<br>
 My orangery
 >
-Re-seasoned to my taste
-[Just an egg
-Get to the hatch
-Gotta make me up another batch]
-Ants swarm on my base
+Re-seasoned to my taste<br>
+[Just an egg<br>
+Get to the hatch<br>
+Gotta make me up another batch]<br>
+Ants swarm on my base<br>
 [Get the fuck out now]
 >
-Lost
-Box of cracker jacks of all trades
-Am I wasting thyme now
-To stay
+Lost<br>
+Box of cracker jacks of all trades<br>
+Am I wasting thyme now<br>
+To stay<br>
 Less than al dente
 >
-Rot, when you tell me
-Look you just got to stay
-Neglecting produce expired on display
-Bad one in a bunch
-No lunch!
-No whey!
+Rot, when you tell me<br>
+Look you just got to stay<br>
+Neglecting produce expired on display<br>
+Bad one in a bunch<br>
+No lunch!<br>
+No whey!<br>
 That plants the seed for the translational frame
 >
-Thought it was ready to serve
-Still way down there on that curve
-Facing in dread the new step
+Thought it was ready to serve<br>
+Still way down there on that curve<br>
+Facing in dread the new step<br>
 Turns out the god damned bacon bread was only the fucking prep!
 >
-I done had to translate my ass
-Just had to get me mise en place
-It done sucked choking on chocolate rain
-No marrow left in the bone
-Just face it
+I done had to translate my ass<br>
+Just had to get me mise en place<br>
+It done sucked choking on chocolate rain<br>
+No marrow left in the bone<br>
+Just face it<br>
 I was never even home
 
 

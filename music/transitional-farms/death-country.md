@@ -26,38 +26,39 @@ afterthought/coincidence.
 
 ## Lyrics
 
->Welcome to a world where everyone knows everything
-And every stupid motherfucking asshole's got to take a stand on anything
-Without a doubt
-Help me now
-Dancin' while I scream and shout
-Assumin' things are boomin' but we're headed straight for doom and I'm just sittin' in my room and wishin' that I wasn't human
-Hey, that's right kids
-Buy more shit
-You'll just have to get used to it
-You don't have an excuse for it
-Thinkin' is a great big waste of your time
+>Welcome to a world where everyone knows everything<br>
+And every stupid motherfucking asshole's got to take a stand on anything<br>
+Without a doubt<br>
+Help me now<br>
+Dancin' while I scream and shout<br>
+Assumin' things are boomin' but we're headed straight for doom and I'm just sittin' in my room and wishin' that I wasn't human<br>
+>
+Hey, that's right kids<br>
+Buy more shit<br>
+You'll just have to get used to it<br>
+You don't have an excuse for it<br>
+Thinkin' is a great big waste of your time<br>
 Ignorance will lead you to peace of mind
 >
-Yeah, we'll see the day
-Leavin' light outside the window
-We'll see the day it'll open up
+Yeah, we'll see the day<br>
+Leavin' light outside the window<br>
+We'll see the day it'll open up<br>
 And sun begins to shine
 >
-If you're bright they'll try to scoop you up to make the sights
-Your less gifted peers will surely need to fight
-Uranium 235 will help our dogma to survive
-We've got a flag it's called a rag for which you die
-Now, let's go folks
-Watch more sports
-You don't have enough space for it
-You'll acquire a taste for it
-Mathematics helps count your wasted time
+If you're bright they'll try to scoop you up to make the sights<br>
+Your less gifted peers will surely need to fight<br>
+Uranium 235 will help our dogma to survive<br>
+We've got a flag it's called a rag for which you die<br>
+Now, let's go folks<br>
+Watch more sports<br>
+You don't have enough space for it<br>
+You'll acquire a taste for it<br>
+Mathematics helps count your wasted time<br>
 Astrology will say nothing but your sign
 >
-Say, what's that there?
-Rocks that shine
-You don't wanna get trapped by it
-Rather get bitch slapped by it
-Drivin' all the compassion from my mind
+Say, what's that there?<br>
+Rocks that shine<br>
+You don't wanna get trapped by it<br>
+Rather get bitch slapped by it<br>
+Drivin' all the compassion from my mind<br>
 Do us all a big favor and resign
