@@ -9,17 +9,19 @@ trackno: 2
 
 _Eigenvalue_ took way too long to finish. In fact, I'm now almost 30 years old,
 and this song was mostly written more than half a decade ago. The time between
-was filled with some tough stuff and some negative thoughts. During this period
-I was in grad school, which is notorious for causing self-doubt. Thus,
-_Eigenvalue_ is a bit dark.
+was filled with some tough stuff and some negative thoughts, but I kept chipping
+away at this beast slowly in the background. During this period I was in grad
+school, which is notorious for causing self-doubt, and worse. Thus, _Eigenvalue_
+is a bit dark.
 
-My old pal Travis Orbin recorded the drums for this one at Anup Sastry's studio.
-Apparently, beyond being an amazing drummer, Anup has impressive audio
-engineering chops. The drums were recorded in the Winter of 2012--2013 (I
+My old pal [Travis Orbin](http://travisorbin.com) recorded the drums for this
+one at [Anup Sastry](https://www.facebook.com/AnupSastryMusic/)'s studio.
+Apparently, beyond being an amazing drummer, Anup possesses some impressive
+audio engineering chops. The drums were recorded in the Winter of 2012--2013 (I
 actually had to search my email to find the dates); yes, it took three years to
-record this stupid thing, and even longer before that to write it, record some
-draft guitars, program some drums, etc. You'd think after working on it for so
-long, this song would be pretty damn great, but we won't talk about that.
+record this sucker, and even longer before that to write it, record some draft
+guitars, program some drums, etc. You'd think after working on it for so long,
+the song would be pretty damn great, but we won't talk about that.
 
 I happened to have filmed some silly footage along the way to put together a
 video for the song. If you look closely, you can probably notice age differences
