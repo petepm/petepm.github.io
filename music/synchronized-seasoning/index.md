@@ -11,7 +11,7 @@ song at a time.
 ## Partial/tentative tracklist
 
 1. [Translational Frames](translational-frames)
-2. Eigenvalue
+2. [Eigenvalue](eigenvalue)
 3. Cliff Walker
 4. _TBA_
 5. _TBA_
