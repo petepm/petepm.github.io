@@ -32,7 +32,7 @@ I happened to have filmed some silly footage along the way to put together a
 [video](https://youtu.be/NLVX7r_P0Po) for the song. If you look closely, you can
 probably notice age differences between the various clips, complete with
 gray/less hair. This tune is also available as a free download from bandcamp:
-https://petepeterson.bandcamp.com/track/eigenvalue
+<https://petepeterson.bandcamp.com/track/eigenvalue>
 
 
 ## Gear
