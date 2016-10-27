@@ -9,13 +9,13 @@ trackno: 2
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/290155979&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Following what seems to be a disturbing pattern, _Eigenvalue_, the second track
+Following what seems to be a disturbing pattern, "Eigenvalue", the second track
 from [_Synchronized Seasoning_](/music/synchronized-seasoning) took way too long
 to finish. In fact, I'm now almost 30 years old, and this song was mostly
 written more than half a decade ago. The time between was filled with some tough
 stuff and some negative thoughts, but I kept chipping away at this beast slowly
 in the background. During this period I was in grad school, which is notorious
-for causing self-doubt, and worse. Thus, _Eigenvalue_ is a bit dark.
+for causing self-doubt, and worse. Thus, this one is a bit dark.
 
 My old pal [Travis Orbin](http://travisorbin.com) is on the drums for this one,
 and I think you'd be hard pressed to find anyone else in the universe that could

@@ -8,7 +8,7 @@ categories:
 ---
 
 Following what seems to be a disturbing pattern,
-[_Eigenvalue_](/music/synchronized-seasoning/eigenvalue), the second track from
+["Eigenvalue"](/music/synchronized-seasoning/eigenvalue), the second track from
 [_Synchronized Seasoning_](/music/synchronized-seasoning) took way too long to
 finish. In fact, I'm now almost 30 years old, and this song was mostly written
 more than half a decade ago. The time between was filled with some tough stuff
