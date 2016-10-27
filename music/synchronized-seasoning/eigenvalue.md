@@ -30,6 +30,9 @@ I happened to have filmed some silly footage along the way to put together a
 video for the song. If you look closely, you can probably notice age differences
 between the various clips, complete with gray/less hair.
 
+This little guy is available as a free download from bandcamp:
+https://petepeterson.bandcamp.com/track/eigenvalue
+
 
 ## Gear
 
