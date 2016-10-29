@@ -90,7 +90,7 @@ get unwieldy.
 >
 >Shame<br>
 >No other fucked up<br>
->What will people say?<br>
+>What will people think?<br>
 >Dilettante<br>
 >What you get ain't gonna be what you want
 >
