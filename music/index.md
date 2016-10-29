@@ -8,6 +8,7 @@ title: Music
 
 * _[Synchronized Seasoning](synchronized-seasoning)_ (unfinished)
   1. [Translational Frames](synchronized-seasoning/translational-frames)
+  2. [Eigenvalue](synchronized-seasoning/eigenvalue)
 * _[Songs, These Are Songs](songs-these-are-songs)_ (2012)
   1. [Cliff Driver](songs-these-are-songs/cliff-driver/)
   2. [Idiot Christmas](songs-these-are-songs/idiot-christmas)
