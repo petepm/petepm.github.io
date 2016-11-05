@@ -17,7 +17,8 @@ stuff and some negative thoughts, but I kept chipping away at this beast slowly
 in the background. During this period I was in grad school, which is notorious
 for causing self-doubt, and worse. Thus, this one is a bit dark.
 
-My old pal [Travis Orbin](http://travisorbin.com) is on the drums for this one,
+My old pal [Travis Orbin](http://travisorbin.com) is on the drums for this one
+(check out his [session video](https://www.youtube.com/watch?v=G0f2TP-Lugk)!),
 and I think you'd be hard pressed to find anyone else in the universe that could
 have done as good a job. The drums were recorded at [Anup
 Sastry](https://www.facebook.com/AnupSastryMusic/)'s studio. Apparently, beyond
