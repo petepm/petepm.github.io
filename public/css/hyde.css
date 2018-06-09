@@ -102,11 +102,20 @@ a.sidebar-nav-item:focus {
 .sidebar-nav-item.subitem {
   font-size: 80%;
 }
+.sidebar-nav-item.subsubitem {
+  font-size: 70%;
+}
 
 @media (min-width: 48em) {
   .sidebar-nav-item.subitem {
       font-size: 90%;
-      margin-left: 25px;
+      margin-left: 17px;
+  }
+}
+@media (min-width: 48em) {
+  .sidebar-nav-item.subsubitem {
+      font-size: 80%;
+      margin-left: 35px;
   }
 }
 
