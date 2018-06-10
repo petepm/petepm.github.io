@@ -9,6 +9,7 @@ title:            "Pete Peterson"
 tagline:          "Pete Peterson Music"
 description:      ""
 url:              https://petepetersonmusic.com
+baseurl:          /
 permalink:        /:title
 
 author:
