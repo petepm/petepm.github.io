@@ -11,7 +11,7 @@ categories:
 
 Art, entertainment, cultural cohesion, cutting rugs,
 radical prehistoric themes, sex, drugs, and wannabe jazz;
-track three from
+the third track from
 from [_Synchronized Seasoning_](/music/synchronized-seasoning),
 "Cliff Walker" has it all.
 It's obviously a bit of a sequel to
