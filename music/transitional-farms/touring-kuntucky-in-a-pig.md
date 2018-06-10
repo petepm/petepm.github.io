@@ -14,7 +14,7 @@ lyrics and main chord progression were written around 2007, back when I was in
 my previous band. Traverse Obrin is on this track drumming, stomping, and
 clapping his way into your heart after the barn dance. You must check out his
 [session
-video](http://www.youtube.com/watch?feature=player_embedded&v=LibEZSU_134), as
+video](https://www.youtube.com/watch?feature=player_embedded&v=LibEZSU_134), as
 it is the most complicated drumming he has ever done. The ending has a little
 numerical pattern you might recognize from high school algebra class. Also, the
 phrase "fun, fun, fun, fun" was recorded before Rebecca Black hit the scene so

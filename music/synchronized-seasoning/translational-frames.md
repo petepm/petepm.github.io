@@ -30,7 +30,7 @@ hit per second (1 Hz).
 Rhythmic harmony is constructed like harmony between pitches, i.e., by
 simultaneously playing rhythmic events at certain frequency ratios. For example,
 to create the rhythmic interval of a fifth (in [just
-intonation](http://en.wikipedia.org/wiki/Just_intonation)), one multiplies a
+intonation](https://en.wikipedia.org/wiki/Just_intonation)), one multiplies a
 root frequency by 3/2. Therefore if a snare drum was playing quarter notes while
 the kick was playing dotted eighth notes, the resulting rhythmic pattern would
 be analogous to a "power chord."
@@ -165,5 +165,5 @@ I was never even home
 ## Lynx
 
 * [bandcamp](https://petepeterson.bandcamp.com/track/translational-frames)
-* [YouTube](http://youtu.be/fQX78JrACM0)
-* [iTunes](http://itunes.apple.com/album/id985437838)
+* [YouTube](https://youtu.be/fQX78JrACM0)
+* [iTunes](https://itunes.apple.com/album/id985437838)

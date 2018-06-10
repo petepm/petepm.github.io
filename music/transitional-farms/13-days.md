@@ -29,7 +29,7 @@ part in “Bugz”, it's interesting to try to keep track of the accent and wher
 lands with respect to the thirteen note sequence. Miracles bro.
 
 Like the rest of the songs on _Transitional Farms_, [Travis
-Orbin](http://youtube.com/shaftninja) is on the ol' drum set being a pretty cool
+Orbin](https://youtube.com/shaftninja) is on the ol' drum set being a pretty cool
 guy. Miracles bro.
 
 

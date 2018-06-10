@@ -84,4 +84,4 @@ Besides that won't impress females
 1. Soddy, F. 1926. "Wealth, Virtual Wealth, and Debt"
 2. Daly, H. 1980. "The Economic Thought of Frederick Soddy"
 3. Derman, E. 2004. "My Life as a Quant: Reflections on Physics and Finance"
-4. "Quants: The Alchemists of Wall St." [[Watch on YouTube](http://youtube.com/watch?v=ed2FWNWwE3I)]
+4. "Quants: The Alchemists of Wall St." [[Watch on YouTube](https://youtube.com/watch?v=ed2FWNWwE3I)]

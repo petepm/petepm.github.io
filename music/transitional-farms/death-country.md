@@ -18,7 +18,7 @@ This tune features the fearless Travis Orbin on drums, replacing the original
 programmed ones. He ended up changing quite a few things for the better,
 including a “gravity blast” beat, which happens to start at the 666th beat of
 the song. Check out his session video on
-[YouTube](http://www.youtube.com/watch?v=vG6f_aEnGic). The "1-2-3-4-5-6" vocal
+[YouTube](https://www.youtube.com/watch?v=vG6f_aEnGic). The "1-2-3-4-5-6" vocal
 lead in is a continuation of the end of "Touring Kuntucky", since 6 is the next
 number descending Pascal's Triangle. Actually, this was partly an
 afterthought/coincidence.
