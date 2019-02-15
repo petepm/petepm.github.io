@@ -18,7 +18,7 @@ just say it's about the frustrating correlation between what people think and to
 which groups they feel they belong.
 Additionally, there are two guitar solos.
 
-As usual, this song is available for consumption via most major music outlets,
+As usual, this song is available via most major music outlets,
 e.g., [bandcamp](https://petepeterson.bandcamp.com/track/exclusive-orangery),
 Google Play Music, iTunes, Spotify, Apple Music, etc.
 
