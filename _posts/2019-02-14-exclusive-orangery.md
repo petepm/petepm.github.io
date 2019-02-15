@@ -11,4 +11,4 @@ categories:
 
 Here's a new tune. Happy Valentine's Day!
 
-[Read more...](/music/synchronized-seasoning/exclusive)
+[Read more...](/music/synchronized-seasoning/exclusive-orangery)
