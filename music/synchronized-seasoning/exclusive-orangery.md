@@ -9,7 +9,8 @@ trackno: 4
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nx8J07qlnYE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Release on Valentine's Day 2019, this song ain't talkin' 'bout love
+Released into the wild on Valentine's Day 2019,
+this song ain't talkin' 'bout love
 in a romantic sense,
 but a different kind, among other things. Without spoiling the mystery too much,
 I will
