@@ -74,7 +74,7 @@ get unwieldy.
 >Trapped on no one's side<br>
 >Wanna be best but who you tryin' to impress<br>
 >And if you only fear this<br>
->You'll not be peerless
+>You'll not be peerless<br>
 >Follow your<br>
 >Dreams killed quickly as they're born
 >
