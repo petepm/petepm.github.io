@@ -19,6 +19,11 @@ more towards the complicated and heavier styles of music.
 "Singleton" is basically an amalgam of all that and more with some ska punk
 influence added in for a little extra spice.
 
+Note that this song took 7 months to finish, whereas
+["Exclusive Orangery"](exclusive-orangery) took 8,
+and ["Cliff Walker"](cliff-walker) about 19. Hopefully that acceleration
+continues.
+
 My friend, drummer, and fellow weird music creator and enthusiast
 [Travis Orbin](http//travisorbin.com) is back yet again bringin' them drums.
 I threw a lot on his plate and he nailed it as usual. Be sure to
