@@ -7,8 +7,7 @@ album: Synchronized Seasoning
 trackno: 5
 ---
 
-<!-- TODO: Add correct URL -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NIpiLIY1mV0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Back when I was 14 years old or so, my cousin and I wrote our first song
 together, which was essentially an attempt to sound just like
@@ -71,8 +70,7 @@ Google Play Music, iTunes, Spotify, Apple Music, etc.
 >I will not fail until I fail the next time<br>
 >And it's coming back to
 >
->This cliché 'bout quantity of fishies<br>
->The sea<br>
+>This cliché 'bout quantity of fish in the sea<br>
 >Got me<br>
 >No arm floaties<br>
 >Ow hey<br>
