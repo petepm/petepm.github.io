@@ -26,7 +26,8 @@ continues.
 My friend, drummer, and fellow weird music creator and enthusiast
 [Travis Orbin](http//travisorbin.com) is back yet again bringin' them drums.
 I threw a lot on his plate and he nailed it as usual. Be sure to
-check out his session video to see what a feat the drumming truly was!
+check out his [session video](https://www.youtube.com/watch?v=sLAWeyMi0zM)
+to see what a feat the drumming truly was!
 Special thanks to Jake Howsam Lowe (The Helix Nebula, Plini, Scoredatura)
 and Ro Stevenson (i built the sky) for their feedback on preliminary mixes.
 
