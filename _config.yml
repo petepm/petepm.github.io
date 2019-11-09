@@ -14,16 +14,16 @@ permalink:        /:title
 
 author:
   name:           "Pete Peterson"
-  url:            https://twitter.com/petepppeterson
+  url:            https://twitter.com/petepm
 
 paginate:         5
 
 github:
   repo:           https://github.com/petepm/petepm.github.io
 
-twitter_username: petepppeterson
+twitter_username: petepm
 github_username: petepm
-instagram_username: petepppeterson
+instagram_username: petep.me
 facebook_username: petepetersonmusic
 youtube_username: petepetersonmusic
 soundcloud_username: petepetersonmusic
