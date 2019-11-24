@@ -22,7 +22,7 @@ of the rhythms and drum parts. Smaller timescale/finer-detailed events were
 transcription [here](http://www.travisorbin.com/images/PetePeterson-Bugz.JPG).
 
 
-## Somewhat intredasting partz
+## Somewhat interesting partz
 
 ### The Int-Bro (0:00-0:28)
 
