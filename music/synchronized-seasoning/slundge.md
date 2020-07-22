@@ -44,7 +44,7 @@ It didn't come out particularly tonal sounding, but it adds another layer of
 information and serves as a first dip of the toes into a pool that could be worth a deep dive.
 The process of writing the code to generate the MIDI is shown here:
 
-<!-- TODO: Add video here -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zowpRnTGiGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Following from the principle of harmony being the superposition of waveforms,
 I composed a drum part for the guitar solo-ish section with a few longer
