@@ -16,6 +16,6 @@ song at a time.
 3. [Cliff Walker](cliff-walker)
 4. [Exclusive Orangery](exclusive-orangery)
 5. [Singleton](singleton)
-6. Slundge (The Collective)
+6. [Slundge (The Collective)](slundge)
 7. _TBA_
 8. _TBA_
