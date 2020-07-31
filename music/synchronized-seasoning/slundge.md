@@ -7,7 +7,7 @@ album: Synchronized Seasoning
 trackno: 6
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TODO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XQ0FLt0jW94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 8 months for ["Exclusive Orangery"](exclusive-orangery);
 7 for ["Singleton"](singleton);
@@ -21,10 +21,10 @@ hence the liberal use of double stops throughout.
 Add in a little bit of alt-rock, grunge, br00tz, and fluid mechanics and
 you get---something.
 
-The [Orbmeister](http//travisorbin.com) served his critical role on the drumset
+The [Orbmeister](http://travisorbin.com) served his critical role on the drumset
 and engineering the drum recording.
 As you might expect, and is detailed below, there were some difficult parts.
-Obviously you must watch his [session video](TODO).
+Obviously you must watch his session video when it's released.
 
 Though it will be tweaked a little for the album release,
 this tune is now available on
