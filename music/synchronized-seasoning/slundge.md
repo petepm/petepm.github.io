@@ -112,7 +112,7 @@ Seeks to be discrete though<br>
 We're all caught in the flow<br>
 Dread to be a domestique<br>
 >
-Fall down the cascade<br>
+>Fall down the cascade<br>
 Hierarchically afraid<br>
 Streamlines<br>
 Don't mind<br>
@@ -121,57 +121,57 @@ One's role<br>
 Can't see heaven with perfect soul<br>
 Spokes pull different ways but still the wheel rolls<br>
 >
-Cries stowed<br>
+>Cries stowed<br>
 Whispering inside a tornado<br>
 >
-Blown to pieces by the wind<br>
+>Blown to pieces by the wind<br>
 Dissipated all within<br>
 I'm waiting for rain<br>
 To escape<br>
 Entrain me<br>
 >
-Continuum<br>
+>Continuum<br>
 Didn't even talk to 'em<br>
 Seem to walk randomly<br>
 The patterns could they be math<br>
 Not a free path<br>
 Feel bad for acting kind of mean<br>
 >
-Up down left right over the background show<br>
+>Up down left right over the background show<br>
 Perturbations grow<br>
 Disparate rarefied<br>
 But yeah we're bound to move together<br>
 To glean clues<br>
 From obscene views<br>
 >
-To infinitely shear<br>
+>To infinitely shear<br>
 We can't all steer<br>
 Row row... row<br>
 >
-Die slow<br>
+>Die slow<br>
 Whispering inside some things to know<br>
 >
-Blown to pieces by the wind<br>
+>Blown to pieces by the wind<br>
 Dissipated all within<br>
 I'm fucking on TV<br>
 Fucking those who fucked with me<br>
 >
-Should be lifting like a wing<br>
+>Should be lifting like a wing<br>
 Not dragging hating everything<br>
 I'm waiting for rain<br>
 To escape<br>
 Entrain me<br>
 >
-OWWWWWWW<br>
+>OWWWWWWW<br>
 OOOOHHHH<br>
 HEEEEAVE<br>
 HOOOOOOO<br>
 >
-Sum villains and heroes<br>
+>Sum villains and heroes<br>
 Balance momentum so below<br>
 >
-Tides grow<br>
+>Tides grow<br>
 Whispering to those above chapeau<br>
 >
-Lay low<br>
+>Lay low<br>
 Feel the pressure say which way to go
