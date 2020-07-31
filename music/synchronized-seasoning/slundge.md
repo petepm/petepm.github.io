@@ -28,7 +28,7 @@ Obviously you must watch his session video when it's released.
 
 Though it will be tweaked a little for the album release,
 this tune is now available on
-[bandcamp](https://petepeterson.bandcamp.com/track/slundge),
+[bandcamp](https://petepeterson.bandcamp.com/track/slundge-the-collective),
 Google Play Music, iTunes, Spotify, Apple Music, etc.
 
 
