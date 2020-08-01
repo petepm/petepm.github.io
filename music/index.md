@@ -6,7 +6,7 @@ slug: music
 title: Music
 ---
 
-* _[Synchronized Seasoning](synchronized-seasoning)_ (unfinished)
+* _[Synchronized Seasoning](synchronized-seasoning)_ (in progress)
   1. [Translational Frames](synchronized-seasoning/translational-frames)
   2. [Eigenvalue](synchronized-seasoning/eigenvalue)
   3. [Cliff Walker](synchronized-seasoning/cliff-walker)
