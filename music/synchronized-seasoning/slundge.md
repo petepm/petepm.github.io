@@ -71,7 +71,7 @@ We have a cycle of 4-5-6-5... in the kick that lasts the sum of those (20).
 20/16 is 5/4, which is the same as a major 3rd interval in just intonation.
 Does this matter? No.
 
-Then with the cymbals, we have 9-10 repeating over an over again, which lasts
+Then with the cymbals, we have 9-10 repeating over and over again, which lasts
 19 notes each cycle, of course. Maybe this should be considered rhythmically
 dissonant, but it's not heard like that anyway. Does this matter? Again, no.
 
