@@ -175,3 +175,11 @@ Whispering to those above chapeau<br>
 >
 >Lay low<br>
 Feel the pressure say which way to go
+
+
+## Artwork
+
+The ![artwork](/images/Slundge.jpg) was adapted from a
+![photo](https://commons.wikimedia.org/wiki/File:Karmansche_Wirbelstr_kleine_Re.JPG)
+by Jürgen Wagner, licensed
+[CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0).
