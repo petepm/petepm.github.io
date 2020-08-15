@@ -24,7 +24,8 @@ you get---something.
 The [Orbmeister](http://travisorbin.com) served his critical role on the drumset
 and engineering the drum recording.
 As you might expect, and is detailed below, there were some difficult parts.
-Obviously you must watch his session video when it's released.
+Obviously you must watch his
+[session video](https://www.youtube.com/watch?v=ZDAJBfFbBPE).
 
 Though it will be tweaked a little for the album release,
 this tune is now available on
