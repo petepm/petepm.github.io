@@ -8,9 +8,6 @@ title: Synchronized Seasoning
 _Synchronized Seasoning_ is a work-in-progress album, being released a
 song at a time.
 
-
-## Partial/tentative tracklist
-
 1. [Translational Frames](translational-frames)
 2. [Eigenvalue](eigenvalue)
 3. [Cliff Walker](cliff-walker)
@@ -18,4 +15,4 @@ song at a time.
 5. [Singleton](singleton)
 6. [Slundge (The Collective)](slundge)
 7. Rockwell C
-8. _TBA_
+8. Reseasoned (The Cyclic)
