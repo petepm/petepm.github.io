@@ -7,14 +7,17 @@ album: Synchronized Seasoning
 trackno: 7
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TODO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TODO"
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
+picture-in-picture" allowfullscreen></iframe>
 
 As the penultimate tune on [_Synchronized Seasoning_](/music/synchronized-seasoning),
-but also the shortest, I really wanted this one to be exciting.
-Hopefully it actually is.
+but also the shortest, I wanted this one to be exciting with some attitude.
+Hopefully it actually turned out that way, but how am I supposed to know?
 
 [Travis Orbin](http://travisorbin.com) drummed on this tune as one might expect,
-and I requested he throw in a little drum solo, which ended up kicking ass.
+and I requested he throw in a little drum solo, which ended up kicking ass,
+as you can tell from my subtle (?) commentary throughout.
 <!--
 Obviously you must watch his
 [session video](https://www.youtube.com/watch?v=TODO).
@@ -27,17 +30,37 @@ Google Play Music, iTunes, Spotify, Apple Music, etc.
 
 ## Composition notes
 
-2-1-1-2-2-1-1-4
+### Main chuggity chugs
 
-Can also apply to the descending chicken-picked part.
+The intro of the tune (after the chromatic-ish pre-intro)
+has this kind of chicken-picked hammered-on sort of lick,
+which was the first little idea that popped up years and years ago.
+I assumed I'd do some sort of heavy palm muting thing with the guitar's lowest power chord over
+it, but left writing that until much later (I think 2020 or so).
 
-For the outro, I decided that since I was always punishing Travis with
-silly polymeter parts, this time I would instead punish myself.
+So I had to come up with some sort of pattern. I'm not sure how I landed on it
 
-I kept the chuggity chug part as the backbone, but had this melody related to
-other parts in the song that I wanted to mix in.
-I ended up having to record the melody chunks one bit at a time, slice them up
-in Reaper, and intersperse them between the chugs.
+    2-1-1-2-2-1-1-4
+
+but after programming it into the scratch drums it seemed to work.
+
+
+### Chicken lickin' outro
+
+For the outro, I had also come up with a chicken-or-hybrid picked groups of
+two string, four note arpeggios that seemed kind of cool, but lacked a rhythmic
+pattern to fit them into. I decided that since I was always punishing Travis with
+silly polymeter parts, this time I would instead punish myself and distribute
+those arpeggios oddly throughout some other pattern.
+
+In comes the original chuggity chug pattern to the rescue--this time slower.
+I kept that low power chord pattern part as the backbone,
+using a kind of generic "Djent" aesthetic,
+but mixed the arpeggios in between.
+I ended up having to record the arpeggio chunks one bit at a time, slice them up
+in Reaper, and intersperse them between the chugs because my brain could not
+work the pattern out otherwise.
+
 But, I wasn't satisfied with the part being performed this way, even though
 it sounded pretty cool, so I decided I had to learn how to play it using
 hybrid picking.
