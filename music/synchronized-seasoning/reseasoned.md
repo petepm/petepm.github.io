@@ -1,6 +1,6 @@
 ---
 comments: false
-date: TODO
+date: 2021-06-03
 layout: page
 title: Reseasoned (The Cyclic)
 album: Synchronized Seasoning

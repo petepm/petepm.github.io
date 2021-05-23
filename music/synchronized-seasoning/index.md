@@ -1,11 +1,11 @@
 ---
 layout: page
 pagetype: album
-date: TODO
+date: 2021-06-03
 title: Synchronized Seasoning
 ---
 
-_Synchronized Seasoning_, released in TODO, but started roughly a decade prior,
+_Synchronized Seasoning_, released in 2021, but started roughly a decade prior,
 and with 6/8 of the tunes published in various levels of completeness along the way,
 was quite the project.
 A lot happened _in real life_ during that time, and the album reflects that,

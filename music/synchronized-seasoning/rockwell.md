@@ -1,6 +1,6 @@
 ---
 comments: false
-date: TODO
+date: 2021-06-03
 layout: page
 title: Rockwell C
 album: Synchronized Seasoning
@@ -35,10 +35,11 @@ Google Play Music, iTunes, Spotify, Apple Music, etc.
 The intro of the tune (after the chromatic-ish pre-intro)
 has this kind of chicken-picked hammered-on sort of lick,
 which was the first little idea that popped up years and years ago.
-I assumed I'd do some sort of heavy palm muting thing with the guitar's lowest power chord over
-it, but left writing that until much later (I think 2020 or so).
+I assumed I'd do some sort of heavy palm muting thing with the guitar's
+lowest power chord over it,
+but left writing the rhythm for that until much later (I think 2020 or so).
 
-So I had to come up with some sort of pattern. I'm not sure how I landed on it
+So I had to come up with some sort of pattern. I'm not sure how I landed on
 
     2-1-1-2-2-1-1-4
 
@@ -47,13 +48,13 @@ but after programming it into the scratch drums it seemed to work.
 
 ### Chicken lickin' outro
 
-For the outro, I had also come up with a chicken-or-hybrid picked groups of
+For the outro, I had also come up with a chicken/hybrid picked groups of
 two string, four note arpeggios that seemed kind of cool, but lacked a rhythmic
 pattern to fit them into. I decided that since I was always punishing Travis with
 silly polymeter parts, this time I would instead punish myself and distribute
 those arpeggios oddly throughout some other pattern.
 
-In comes the original chuggity chug pattern to the rescue--this time slower.
+In comes the original chuggity chug pattern to the rescue.
 I kept that low power chord pattern part as the backbone,
 using a kind of generic "Djent" aesthetic,
 but mixed the arpeggios in between.
@@ -61,36 +62,18 @@ I ended up having to record the arpeggio chunks one bit at a time, slice them up
 in Reaper, and intersperse them between the chugs because my brain could not
 work the pattern out otherwise.
 
-But, I wasn't satisfied with the part being performed this way, even though
-it sounded pretty cool, so I decided I had to learn how to play it using
-hybrid picking.
-In this case memory was fine, i.e., I just kept playing it until I could do it
-by feel. My brain couldn't try to keep track of which chug group in the pattern
-I was on at any give time.
+Then I had to learn how to play it.
+Since I'm not very good at counting things out while playing
+(and don't find it to be very fun),
+I just kept trying to play along until I could do it by feel, and that worked
+nicely.
 
-What is this sort of thing called? It's not really a polymeter or polyrhythm.
-It's sort of like a multi-riff--two riffs with non-uniform length segments
-woven together.
-
-The "melodic" part is sort of 6 segments then 3 segments.
-Each is 1/4 long? And the last is 1/2?
-
-The rhythmic part is 30 x 1/8 notes long?
-
-But the lengths really don't matter. It's the number of sections, and it's the
-fact that they aren't all the same length that makes it sound weird
-(along with the fact the total number is different.)
-
-So where a polymeter drum part sounds strange because the two drums intersect at
-different points in the cycle, it's similar here maybe.
-
-The rhythmic part is like the "meter" or measure of time, but it's nonuniform.
-You keep moving through the melodic part one rhythmic unit at a time.
-The fact there are a different number of rhythmic units (8) versus melodic
-units (9) give it a strange feel.
-
-But yeah, it's really the nonuniform sampling that does it. It's maybe like a
-nonuniform time signature?
+Is there a name for this sort of thing?
+It's not really a polymeter or polyrhythm.
+It's sort of like a poly-riff--two riffs with non-uniform length segments
+and different numbers of segments woven together.
+The part sounds like it's continuously changing, but isn't hard to follow
+after a few listens.
 
 
 ## Gear
