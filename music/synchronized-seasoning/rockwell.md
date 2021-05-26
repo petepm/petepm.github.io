@@ -54,7 +54,7 @@ pattern to fit them into. I decided that since I was always punishing Travis wit
 silly polymeter parts, this time I would instead punish myself and distribute
 those arpeggios oddly throughout some other pattern.
 
-In comes the original chuggity chug pattern to the rescue.
+In comes the 2-1-1-2-2-1-1-4 chuggity chug pattern to the rescue.
 I kept that low power chord pattern part as the backbone,
 using a kind of generic "Djent" aesthetic,
 but mixed the arpeggios in between.
@@ -69,7 +69,7 @@ I just kept trying to play along until I could do it by feel, and that worked
 nicely.
 
 Is there a name for this sort of thing?
-It's not really a polymeter or polyrhythm.
+It's not really a polymeter or polyrhythm as far as I can tell.
 It's sort of like a poly-riff--two riffs with non-uniform length segments
 and different numbers of segments woven together.
 The part sounds like it's continuously changing, but isn't hard to follow
@@ -79,7 +79,7 @@ after a few listens.
 ## Gear
 
 * Guitar: Agile Texan T7 (7-string Telecaster copy)
-* Acoustic guitar: Ibanez TODO
+* Acoustic guitar: Ibanez ArtWood AJ307CE
 * Amps: Neural DSP NTS Suite and Guitar Rig 5
 * Vocal microphone: Shure SM-7b
 * DAW: [Reaper](https://www.reaper.fm/)
@@ -152,18 +152,18 @@ after a few listens.
 >Now all scrap anyway<br>
 >Yeah yeah<br>
 >
-All scrap anyway
-
-Could be one hard son of a bitch
-Now all scrap anyway
-
-Over thinking
-You're all scrap anyway
-
-Could be one hard son of a bitch
-Now all scrap anyway yeah
-
-Fuck this shit up
-
-You'll be lonely
-On the Rockwell C
+>All scrap anyway<br>
+>
+>Could be one hard son of a bitch<br>
+>Now all scrap anyway<br>
+>
+>Over thinking<br>
+>You're all scrap anyway<br>
+>
+>Could be one hard son of a bitch<br>
+>Now all scrap anyway yeah<br>
+>
+>[Fuck this shit up]<br>
+>
+>You'll be lonely<br>
+>On the Rockwell C<br>

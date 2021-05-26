@@ -32,8 +32,8 @@ None really.
 * Guitar:
     * Agile Texan T7 (7-string Telecaster copy)
     * Some 22-fret Jackson 7-string, which I painted white with red polka dots
-      (for extra climbing power)
-* Acoustic guitar: Ibanez TODO
+      (for extra KOMs)
+* Acoustic guitar: Ibanez ArtWood AJ307CE
 * Amps: Neural DSP NTS Suite and Archetype: Plini
 * Vocal microphone: Shure SM-7b
 * DAW: [Reaper](https://www.reaper.fm/)
@@ -44,58 +44,58 @@ None really.
 ## Spherical lyricals
 
 >Destination<br>
-Oscillation<br>
-Stuck spinning on the wheels<br>
-When did this get real<br>
-<br>
-Formation<br>
-Impersonation<br>
-Kept circling the field<br>
-Now slow travel revealed<br>
-<br>
-Kept falling back each step when up again<br>
-Time is not some medicine<br>
-<br>
-Felt like the same roads<br>
-It was a cycle there<br>
-Obscures and hides slow trends<br>
-Recurring strife mechanical ends<br>
-<br>
-Heal<br>
-Alternating hardened and annealed<br>
-<br>
-Undulations<br>
-Constellations<br>
-Stuck spinning in the sky<br>
-One day they will die<br>
-<br>
-Rotation<br>
-Congratulation<br>
-Not moving quite the same<br>
-Translate to a new frame<br>
-<br>
-Fooled to think this song's parts repeat endlessly<br>
-Nothing has eternity<br>
-<br>
-Felt like the same roads<br>
-It was a cycle there<br>
-Obscures and hides slow trends<br>
-Recurring strife mechanical ends<br>
-<br>
-Doom<br>
-Easily forgotten in an afternoon<br>
-<br>
-Soon<br>
-Another to be left unnoticed waiting in a giant room<br>
-Waiting in a giant room<br>
-<br>
-Bounce along a kind of chaotic path<br>
-Highs and lows damp out as we grow old<br>
-We count all the days we passed the star<br>
-Making believe we'll have another turn<br>
-So many chances left to learn<br>
-<br>
-Bob up and down now<br>
-Joe side to side<br>
-Destined to likely be<br>
-Another anon (TODO?) cyclic escapee<br>
+>Oscillation<br>
+>Stuck spinning on the wheels<br>
+>When did this get real<br>
+><br>
+>Formation<br>
+>Impersonation<br>
+>Kept circling the field<br>
+>Now slow travel revealed<br>
+><br>
+>Kept falling back each step when up again<br>
+>Time is not some medicine<br>
+><br>
+>Felt like the same roads<br>
+>It was a cycle there<br>
+>Obscures and hides slow trends<br>
+>Recurring strife mechanical ends<br>
+><br>
+>Heal<br>
+>Alternating hardened and annealed<br>
+><br>
+>Undulations<br>
+>Constellations<br>
+>Stuck spinning in the sky<br>
+>One day they will die<br>
+><br>
+>Rotation<br>
+>Congratulation<br>
+>Not moving quite the same<br>
+>Translate to a new frame<br>
+><br>
+>Fooled to think this song's parts repeat endlessly<br>
+>Nothing has eternity<br>
+><br>
+>Felt like the same roads<br>
+>It was a cycle there<br>
+>Obscures and hides slow trends<br>
+>Recurring strife mechanical ends<br>
+><br>
+>Doom<br>
+>Easily forgotten in an afternoon<br>
+><br>
+>Soon<br>
+>Another to be left unnoticed waiting in a giant room<br>
+>Waiting in a giant room<br>
+><br>
+>Bounce along a kind of chaotic path<br>
+>Highs and lows damp out as we grow old<br>
+>We count all the days we passed the star<br>
+>Making believe we'll have another turn<br>
+>So many chances left to learn<br>
+><br>
+>Bob up and down now<br>
+>Joe side to side<br>
+>Destined to likely be<br>
+>Another anon (TODO?) cyclic escapee<br>
