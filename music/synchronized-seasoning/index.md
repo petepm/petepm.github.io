@@ -23,6 +23,9 @@ I hope this album makes you feel some stuff, maybe even something close to
 what I was feeling while making it, but if you don't, that's okay.
 At least it's done.
 
+This little guy is available for download/streaming on:
+* TODO
+
 
 ## Tracklist
 

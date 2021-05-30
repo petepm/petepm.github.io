@@ -6,13 +6,15 @@ slug: music
 title: Music
 ---
 
-* _[Synchronized Seasoning](synchronized-seasoning)_ (in progress)
+* _[Synchronized Seasoning](synchronized-seasoning)_ (2021)
   1. [Translational Frames](synchronized-seasoning/translational-frames)
   2. [Eigenvalue](synchronized-seasoning/eigenvalue)
   3. [Cliff Walker](synchronized-seasoning/cliff-walker)
   4. [Exclusive Orangery](synchronized-seasoning/exclusive-orangery)
   5. [Singleton](synchronized-seasoning/singleton)
   6. [Slundge (The Collective)](synchronized-seasoning/slundge)
+  7. [Rockwell C](synchronized-seasoning/rockwell)
+  8. [Reseasoned (The Cyclic)](synchronized-seasoning/reseasoned)
 * _[Songs, These Are Songs](songs-these-are-songs)_ (2012)
   1. [Cliff Driver](songs-these-are-songs/cliff-driver/)
   2. [Idiot Christmas](songs-these-are-songs/idiot-christmas)
