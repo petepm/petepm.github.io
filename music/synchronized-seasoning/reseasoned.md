@@ -17,7 +17,7 @@ both of which made it damn hard to mimic for the video. Hey, I did my best.
 
 This tune is now available along with the rest on
 [bandcamp](https://petepeterson.bandcamp.com/TODO),
-Google Play Music, iTunes, Spotify, Apple Music, etc.
+YouTube, iTunes, Spotify, Apple Music, etc.
 
 
 ## Composition notes

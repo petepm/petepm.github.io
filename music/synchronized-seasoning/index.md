@@ -36,8 +36,8 @@ At least it's done.
 8. [Reseasoned (The Cyclic)](reseasoned)
 
 
-## Nothing personnel
+## Nothing personnel, kid
 
 * Everything except drums: Me
 * Drums: [Travis Orbin](http://travisorbin.com)
-* Pig squeals on "Rockwell C": TODO
+* Pig squeals on "Rockwell C": Aubrey Bachant

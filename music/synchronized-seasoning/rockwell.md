@@ -13,9 +13,8 @@ picture-in-picture" allowfullscreen></iframe>
 
 As the penultimate tune on [_Synchronized Seasoning_](/music/synchronized-seasoning),
 but also the shortest, I wanted this one to have a bit of 'tude.
-At this point in the "cycle,"
-it's sort of like snapping out of an overly gamified view of life,
-exchanging it for a kind of nihilistic perspective, but in a positive way.
+If you've ever wondered what it would be like if a goofy metal guy made
+country music, here you go.
 
 [Travis Orbin](http://travisorbin.com) drummed on this tune as one might expect,
 and I requested he throw in a little drum solo, which ended up kicking ass,
@@ -27,7 +26,7 @@ Obviously you must watch his
 
 This tune is now available along with the rest on
 [bandcamp](https://petepeterson.bandcamp.com/TODO),
-Google Play Music, iTunes, Spotify, Apple Music, etc.
+YouTube, iTunes, Spotify, Apple Music, etc.
 
 
 ## Composition notes
