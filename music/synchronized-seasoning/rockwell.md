@@ -12,8 +12,10 @@ frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
 picture-in-picture" allowfullscreen></iframe>
 
 As the penultimate tune on [_Synchronized Seasoning_](/music/synchronized-seasoning),
-but also the shortest, I wanted this one to be exciting with some attitude.
-Hopefully it actually turned out that way, but how am I supposed to know?
+but also the shortest, I wanted this one to have a bit of 'tude.
+At this point in the "cycle,"
+it's sort of like snapping out of an overly gamified view of life,
+exchanging it for a kind of nihilistic perspective, but in a positive way.
 
 [Travis Orbin](http://travisorbin.com) drummed on this tune as one might expect,
 and I requested he throw in a little drum solo, which ended up kicking ass,

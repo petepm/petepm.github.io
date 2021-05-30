@@ -12,10 +12,8 @@ frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
 picture-in-picture" allowfullscreen></iframe>
 
 And thus ends [_Synchronized Seasoning_](/music/synchronized-seasoning),
-not with a bang or a whimper, but a comped and mostly improvised guitar solo,
-which made it damn hard to mimic for the video. Hey, I did my best.
-You could probably learn to play it much better than I can, and maybe you should,
-because it is kind of fun.
+not with a bang or a whimper, but a mostly improvised and very comped guitar solo,
+both of which made it damn hard to mimic for the video. Hey, I did my best.
 
 This tune is now available along with the rest on
 [bandcamp](https://petepeterson.bandcamp.com/TODO),
@@ -24,7 +22,14 @@ Google Play Music, iTunes, Spotify, Apple Music, etc.
 
 ## Composition notes
 
-None really.
+None really. It's a pretty simple tune with simple chords, though like some of
+the others on this album, the string-to-string major 3rd instead of 4th jump is between
+the D and G rather than the G and B strings. So basically it's like a 6-string tuned
+down to B standard (though a half step down), with an extra higher string.
+This means the 1st chord is a typical C shape,
+but with the root on the 3rd fret of the E string,
+leaving the higher pitch strings open for extending the chords, adding different
+flavors and melodic stuff.
 
 
 ## Gear
