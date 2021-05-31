@@ -20,6 +20,6 @@ All the rest were
 remixed, remastered, and with any programmed drums (and samples) replaced by
 much cooler and badasser real drums.
 Take a listen on
+[bandcamp](https://petepeterson.bandcamp.com/album/synchronized-seasoning),
 [YouTube](TODO),
-[bandcamp](TODO), or anywhere else you like to
-consume musics.
+or anywhere else you like to consume musics.

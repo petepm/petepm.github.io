@@ -13,7 +13,7 @@ reflect the cycle of types of thoughts and
 emotions incurred therein.
 
 I'm not totally sure if the album fully realized the vision I had for it when I
-first started on it, but that's probably the point.
+first started on it way back in 2013 or something, but that's probably the point.
 It started off as little inklings of ideas and these all had to be filled in
 and fully developed along the way, and it
 would have turned out much differently if I had forced myself to finish it all
@@ -23,8 +23,9 @@ I hope this album makes you feel some stuff, maybe even something close to
 what I was feeling while making it, but if you don't, that's okay.
 At least it's done.
 
-This little guy is available for download/streaming on:
-* TODO
+This little guy is available for download/streaming on
+[bandcamp](https://petepeterson.bandcamp.com/album/synchronized-seasoning),
+YouTube, Spotify, Apple Music, et al.
 
 
 ## Tracklist

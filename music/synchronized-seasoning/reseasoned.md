@@ -16,7 +16,7 @@ not with a bang or a whimper, but a mostly improvised and very comped guitar sol
 both of which made it damn hard to mimic for the video. Hey, I did my best.
 
 This tune is now available along with the rest on
-[bandcamp](https://petepeterson.bandcamp.com/TODO),
+[bandcamp](https://petepeterson.bandcamp.com/album/synchronized-seasoning),
 YouTube, iTunes, Spotify, Apple Music, etc.
 
 

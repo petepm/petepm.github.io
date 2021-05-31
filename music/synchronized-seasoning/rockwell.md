@@ -12,7 +12,7 @@ frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
 picture-in-picture" allowfullscreen></iframe>
 
 As the penultimate tune on [_Synchronized Seasoning_](/music/synchronized-seasoning),
-but also the shortest, I wanted this one to have a bit of 'tude.
+I wanted this one to have a bit of 'tude.
 If you've ever wondered what it would be like if a goofy metal guy made
 country music, here you go.
 
@@ -25,7 +25,7 @@ Obviously you must watch his
 -->
 
 This tune is now available along with the rest on
-[bandcamp](https://petepeterson.bandcamp.com/TODO),
+[bandcamp](https://petepeterson.bandcamp.com/album/synchronized-seasoning),
 YouTube, iTunes, Spotify, Apple Music, etc.
 
 
