@@ -87,6 +87,13 @@ after a few listens.
 * Drums and drum recording rig: [Travis Orbin's](http://travisorbin.com/equipment.htm)
 
 
+## Credits
+
+* Drums: [Travis Orbin](http://travisorbin.com/equipment.htm)
+* Pig squeals: Aubrey Bachant
+* The rest of the junk: me
+
+
 ## Lyrics
 
 >Ow, got put under extreme heat<br>

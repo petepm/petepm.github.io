@@ -46,6 +46,13 @@ flavors and melodic stuff.
   [Travis Orbin's](http://travisorbin.com/equipment.htm)
 
 
+## Creditz
+
+* Drums: [Travis Orbin](http://travisorbin.com/equipment.htm)
+* Guitar solo filming: Aubrey Bachant
+* All other stuff: me
+
+
 ## Spherical lyricals
 
 >Destination<br>
