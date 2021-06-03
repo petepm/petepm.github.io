@@ -7,7 +7,7 @@ categories:
 - Albums
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TODO"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2eewWORVBHs"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
 picture-in-picture" allowfullscreen></iframe>
 
@@ -21,5 +21,5 @@ remixed, remastered, and with any programmed drums (and samples) replaced by
 much cooler and badasser real drums.
 Take a listen on
 [bandcamp](https://petepeterson.bandcamp.com/album/synchronized-seasoning),
-[YouTube](TODO),
+[YouTube](https://youtu.be/2eewWORVBHs),
 or anywhere else you like to consume musics.

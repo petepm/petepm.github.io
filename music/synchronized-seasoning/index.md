@@ -5,6 +5,10 @@ date: 2021-06-03
 title: Synchronized Seasoning
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2eewWORVBHs"
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
+picture-in-picture" allowfullscreen></iframe>
+
 _Synchronized Seasoning_, released in 2021, but started roughly a decade prior,
 and with 6/8 of the tunes published in various levels of completeness along the way,
 was quite the project.
@@ -25,7 +29,7 @@ At least it's done.
 
 This little guy is available for download/streaming on
 [bandcamp](https://petepeterson.bandcamp.com/album/synchronized-seasoning),
-YouTube, Spotify, Apple Music, et al.
+[YouTube](https://youtu.be/2eewWORVBHs), Spotify, Apple Music, et al.
 
 
 ## Tracklist
