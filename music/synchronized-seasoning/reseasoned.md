@@ -7,7 +7,7 @@ album: Synchronized Seasoning
 trackno: 8
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TODO"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jCwPJzGXtbE"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
 picture-in-picture" allowfullscreen></iframe>
 
@@ -17,7 +17,7 @@ both of which made it damn hard to mimic for the video. Hey, I did my best.
 
 This tune is now available along with the rest on
 [bandcamp](https://petepeterson.bandcamp.com/album/synchronized-seasoning),
-YouTube, iTunes, Spotify, Apple Music, etc.
+[YouTube](https://youtu.be/2eewWORVBHs), iTunes, Spotify, Apple Music, etc.
 
 
 ## Composition notes
