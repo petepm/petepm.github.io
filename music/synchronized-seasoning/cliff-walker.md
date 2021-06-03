@@ -36,7 +36,7 @@ including:
 My good pal and go-to session drumberista
 [Travis Orbin](http://travisorbin.com)
 politely insisted on playing on this tune after hearing some of the licks on
-[Instagram](https://instagram.com/petepppeterson).
+[Instagram](https://instagram.com/petep.me).
 Since he kicks ass,
 and programming these drums properly was going to be a huge pain in the ass,
 I happily agreed.
