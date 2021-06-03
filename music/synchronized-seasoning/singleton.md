@@ -7,7 +7,9 @@ album: Synchronized Seasoning
 trackno: 5
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NIpiLIY1mV0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y9071_HVs1w"
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
+picture-in-picture" allowfullscreen></iframe>
 
 Back when I was 14 years old or so, my cousin and I wrote our first song
 together, which was essentially an attempt to sound just like
@@ -43,7 +45,7 @@ _Synchronized Seasoning_". There might be more than meets the... ear?
 5. [Part 5](https://youtu.be/zYDBcfO52JA)
 
 Per usual, this song is available via most major music outlets,
-e.g., [bandcamp](https://petepeterson.bandcamp.com/track/singleton),
+e.g., [bandcamp](https://petepeterson.bandcamp.com/album/synchronized-seasoning),
 Google Play Music, iTunes, Spotify, Apple Music, etc.
 
 

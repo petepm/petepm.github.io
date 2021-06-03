@@ -8,7 +8,10 @@ album: Synchronized Seasoning
 trackno: 1
 ---
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/200963019&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rbOmd84GrKI"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
 
 The first Pete P song released in roughly three years, "Translational Frames"
 was a bit painful to write and record, due to both lack of time and motivation.
@@ -164,6 +167,4 @@ I was never even home
 
 ## Lynx
 
-* [bandcamp](https://petepeterson.bandcamp.com/track/translational-frames)
-* [YouTube](https://youtu.be/fQX78JrACM0)
-* [iTunes](https://itunes.apple.com/album/id985437838)
+* [bandcamp](https://petepeterson.bandcamp.com/album/synchronized-seasoned)

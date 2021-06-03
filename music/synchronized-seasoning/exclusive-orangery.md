@@ -7,7 +7,9 @@ album: Synchronized Seasoning
 trackno: 4
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nx8J07qlnYE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xMxEeTgpiRY"
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
+picture-in-picture" allowfullscreen></iframe>
 
 Released into the wild on Valentine's Day 2019,
 this song ain't talkin' 'bout love
@@ -19,8 +21,8 @@ which groups they feel they belong.
 Additionally, there are two guitar solos.
 
 As usual, this song is available via most major music outlets,
-e.g., [bandcamp](https://petepeterson.bandcamp.com/track/exclusive-orangery),
-Google Play Music, iTunes, Spotify, Apple Music, etc.
+e.g., [bandcamp](https://petepeterson.bandcamp.com/album/synchronized-seasoning),
+YouTube Music, iTunes, Spotify, Apple Music, etc.
 
 
 ## Gear

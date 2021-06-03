@@ -7,7 +7,10 @@ album: Synchronized Seasoning
 trackno: 2
 ---
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/290155979&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o8ZUtOoxpJQ"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
 
 Following what seems to be a disturbing pattern, "Eigenvalue", the second track
 from [_Synchronized Seasoning_](/music/synchronized-seasoning) took way too long
@@ -30,10 +33,10 @@ drums, etc. You'd think after working on it for so long, the song would be
 pretty damn great, but we won't talk about that.
 
 I happened to have filmed some silly footage along the way to put together a
-[video](https://youtu.be/NLVX7r_P0Po) for the song. If you look closely, you can
+for the song (see above). If you look closely, you can
 probably notice age differences between the various clips, complete with
-gray/less hair. This tune is also available as a free download from bandcamp:
-<https://petepeterson.bandcamp.com/track/eigenvalue>
+gray/less hair. This tune is also available as a free download from
+[bandcamp](https://petepeterson.bandcamp.com/album/synchronized-seasoning).
 
 
 ## Gear

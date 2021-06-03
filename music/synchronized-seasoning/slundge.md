@@ -7,7 +7,8 @@ album: Synchronized Seasoning
 trackno: 6
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XQ0FLt0jW94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HIjNABoRVpc"
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 8 months for ["Exclusive Orangery"](exclusive-orangery);
 7 for ["Singleton"](singleton);
@@ -27,10 +28,9 @@ As you might expect, and is detailed below, there were some difficult parts.
 Obviously you must watch his
 [session video](https://www.youtube.com/watch?v=ZDAJBfFbBPE).
 
-Though it will be tweaked a little for the album release,
-this tune is now available on
-[bandcamp](https://petepeterson.bandcamp.com/track/slundge-the-collective),
-Google Play Music, iTunes, Spotify, Apple Music, etc.
+This tune is now available on
+[bandcamp](https://petepeterson.bandcamp.com/album/synchronized-seasoning),
+YouTube Music, iTunes, Spotify, Apple Music, etc.
 
 
 ## Composition notes

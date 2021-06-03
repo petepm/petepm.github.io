@@ -7,7 +7,8 @@ album: Synchronized Seasoning
 trackno: 3
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PMaBDVKe7kE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6libkwvjRlQ"
+frameborder="0" allowfullscreen></iframe>
 
 Art, entertainment, cultural cohesion, cutting rugs,
 radical prehistoric themes, sex, drugs, and wannabe jazz;
@@ -21,8 +22,8 @@ but from a different (perhaps more mature) perspective.
 As usual, this song is available for consumption via most major music outlets,
 including:
 
-* [bandcamp](https://petepeterson.bandcamp.com/track/cliff-walker)
-* Google Play Music
+* [bandcamp](https://petepeterson.bandcamp.com/album/synchronized-seasoning)
+* [YouTube](https://youtu.be/6libkwvjRlQ)
 * iTunes
 * Spotify
 * Apple Music
