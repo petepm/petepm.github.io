@@ -19,10 +19,6 @@ country music, here you go.
 [Travis Orbin](http://travisorbin.com) drummed on this tune as one might expect,
 and I requested he throw in a little drum solo, which ended up kicking ass,
 as you can tell from my subtle (?) commentary throughout.
-<!--
-Obviously you must watch his
-[session video](https://www.youtube.com/watch?v=TODO).
--->
 
 This tune is now available along with the rest on
 [bandcamp](https://petepeterson.bandcamp.com/album/synchronized-seasoning),
