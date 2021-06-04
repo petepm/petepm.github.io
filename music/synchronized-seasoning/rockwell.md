@@ -67,7 +67,7 @@ nicely.
 
 Is there a name for this sort of thing?
 It's not really a polymeter or polyrhythm as far as I can tell.
-It's sort of like a poly-riff--two riffs with non-uniform length segments
+It's sort of like a poly-riff---two riffs with non-uniform length segments
 and different numbers of segments woven together.
 The part sounds like it's continuously changing, but isn't hard to follow
 after a few listens.
