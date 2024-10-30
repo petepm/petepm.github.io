@@ -17,6 +17,9 @@ See, back in 2007 or so, I thought politics in the US was as insane as it could
 possibly get, ya know, with Sarah Palin being floated as a VP pick.
 Little did I know how much worse things could get.
 
+There are four Pantera-inspired Easter egg riffs in here.
+Can you find them all?
+
 ## Lyrics
 
 >And a-one

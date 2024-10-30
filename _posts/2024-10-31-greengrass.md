@@ -12,6 +12,7 @@ categories:
 Happy Halloween!
 Here's a new tune, "Greengrass", from an album I've
 been working on called _Greyleaf_.
-I hope it scares ya.
+There are four Pantera-inspired Easter egg riffs in there.
+Can you find them all?
 
 [Read more...](/music/greyleaf/greengrass)
