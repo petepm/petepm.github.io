@@ -7,8 +7,7 @@ album: Greyleaf
 trackno: 9
 ---
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/6libkwvjRlQ"
-frameborder="0" allowfullscreen></iframe> -->
+<!-- TODO: Embed YouTube video here -->
 
 This tune sort of feels like the sequel to
 ["Death Country"](transitional-farms/death-country),
