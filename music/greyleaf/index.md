@@ -21,6 +21,6 @@ slightly after the end of the world.
 6. External Organs
 7. Some Tiny Particle
 8. Relieved by Extinction
-9. [Greengrass](greyleaf/greengrass)
+9. [Greengrass](greengrass)
 10. Unsound
 11. The Gray Area
