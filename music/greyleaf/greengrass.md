@@ -21,64 +21,64 @@ Can you find them all?
 
 ## Lyrics
 
->And a-one
->And a-too many motherfuckers still haven't uncovered
->What it means to be true to say
->Yeah just playin'
+>And a-one<br>
+>And a-too many motherfuckers still haven't uncovered<br>
+>What it means to be true to say<br>
+>Yeah just playin'<br>
 >Sittin' in their room and spittin' on another human all day
 >
->Guy may be your brother but you gotta hate each other
->That guy it ain't me
->See thee speech be free
+>Guy may be your brother but you gotta hate each other<br>
+>That guy it ain't me<br>
+>See thee speech be free<br>
 >Thank you Satan for this blessed technology
 >
->Day of judgement
->What's the nudge sent
->No brain so blame on the gubmint royalty
+>Day of judgement<br>
+>What's the nudge sent<br>
+>No brain so blame on the gubmint royalty<br>
 >Tee up and take a swing little buddy
 >
 >Are the ravens still circling that mountain top?
 >
->Now it's been one hundred years
->Got to wake our sleeping king
->Beard wrapped three times round that post
->He's gonna come fix everything
->If he's feeling reticent
+>Now it's been one hundred years<br>
+>Got to wake our sleeping king<br>
+>Beard wrapped three times round that post<br>
+>He's gonna come fix everything<br>
+>If he's feeling reticent<br>
 >We'll just have to make him see
 >
->Long time small town maybe
->Sebastian by our kingdom come
->Big time big crime baby
->Millennarian legend rerun
+>Long time small town maybe<br>
+>Sebastian by our kingdom come<br>
+>Big time big crime baby<br>
+>Millennarian legend rerun<br>
 >Yeah we're going way down down down down
 >
->Go summon up that little man
->Sword and shield kept on display
->Bow to your master peasant boys
->What a gift to see this day
+>Go summon up that little man<br>
+>Sword and shield kept on display<br>
+>Bow to your master peasant boys<br>
+>What a gift to see this day<br>
 >Day-by-day impostors will pay
 >
->Now don't take your medicine
->Doctor's cursed by the demons
->Yeah you know that they've been schemin'
->To steal our green and
->Turn that grass gray
+>Now don't take your medicine<br>
+>Doctor's cursed by the demons<br>
+>Yeah you know that they've been schemin'<br>
+>To steal our green and<br>
+>Turn that grass gray<br>
 >Feminine skeletons
 >
->Never gonna last indeterminate man
->Better run past it as fast as you can
->Gotta have gold if you want in the van
+>Never gonna last indeterminate man<br>
+>Better run past it as fast as you can<br>
+>Gotta have gold if you want in the van<br>
 >Charlatan
 >
->Hundred thousand years just a flash in the pan
->Hourglass tipped and it's low on the sand
->I got a little red pill from your mom's brother Sam
->And it ain't at all a part of the plan
+>Hundred thousand years just a flash in the pan<br>
+>Hourglass tipped and it's low on the sand<br>
+>I got a little red pill from your mom's brother Sam<br>
+>And it ain't at all a part of the plan<br>
 >Bam
 >
->It's the end now
->A false flat back then
->Got to get back into the mountain
->Go back to sleep
->It is not the day
+>It's the end now<br>
+>A false flat back then<br>
+>Got to get back into the mountain<br>
+>Go back to sleep<br>
+>It is not the day<br>
 >Sun will not begin to shine no way
