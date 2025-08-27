@@ -38,7 +38,7 @@ I don't think social media was very helpful to her.
 >
 >Can't look at what reflects<br>
 >Afraid of what I'll see<br>
->The dark side in me
+>The dark side of me
 >
 >Weighed so<br>
 >Soul burnt I know<br>
