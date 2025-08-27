@@ -19,7 +19,7 @@ slightly after the end of the world.
 4. Uncaged
 5. When You Need Love to Show Up
 6. External Organs
-7. Some Tiny Particle
+7. [Self Type Product](self-type-product)
 8. Relieved by Extinction
 9. [Greengrass](greengrass)
 10. Unsound
