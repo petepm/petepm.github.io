@@ -13,7 +13,8 @@ Here's another tune I call "Self Type Product", or "STP" for short.
 It will likely end up as track 7 on [_Greyleaf_](/music/greyleaf/index.md),
 and will also probably have real drums for the full album version.
 
-The song is about how social media is bad,
+The song, whose genre I would describe as "tech grunge,"
+is about how social media is bad,
 and if I were smart,
 I'd quit
 [like Carl King](https://carlkingdom.com/carl-king-is-no-longer-on-social-media).

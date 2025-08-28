@@ -9,20 +9,14 @@ trackno: 7
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TODO?si=Mjkg01hmt3s-jNZP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-What can I say about this tune,
-other than that it's about social media and how it's ruined everything.
-It was supposed to be a way for us to make connection to follow up
+Social media was supposed to be a way for us to make connection to follow up
 on IRL,
 but it turned into a replacement,
 and a way to spread stupid and wrong ideas.
 If I were smart, I'd quit
 [like Carl King](https://carlkingdom.com/carl-king-is-no-longer-on-social-media).
 
-I would describe the genre as "tech grunge."
-
-This song is dedicated to my sister Aubrey,
-and while no written about her per se,
-I don't think social media was very helpful to her.
+This song, whose genre I would describe as "tech grunge," is about that.
 
 ## Lyrics
 
