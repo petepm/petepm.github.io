@@ -7,7 +7,7 @@ title: Greyleaf
 
 <!-- TODO: Embed YouTube video here -->
 
-_Greyleaf_ is my 2nd full length, and it's sure to be finished
+_Greyleaf_ is the 2nd Pete P LP, and it's sure to be finished
 slightly after the end of the world.
 
 
@@ -19,7 +19,7 @@ slightly after the end of the world.
 4. Uncaged
 5. When You Need Love to Show Up
 6. External Organs
-7. Some Tiny Particle
+7. [Self Type Product](self-type-product)
 8. Relieved by Extinction
 9. [Greengrass](greengrass)
 10. Unsound
