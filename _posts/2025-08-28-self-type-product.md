@@ -7,7 +7,7 @@ categories:
 - Tunes
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TODO?si=Mjkg01hmt3s-jNZP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vxxqXBcCc7I?si=1GbKTjAHVdpZMSip" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Here's another tune I call "Self Type Product", or "STP" for short.
 It will likely end up as track 7 on [_Greyleaf_](/music/greyleaf/index.md),
