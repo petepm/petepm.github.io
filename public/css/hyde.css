@@ -291,7 +291,6 @@ a.sidebar-nav-item:focus {
   display: inline-block;
   width: 16px;
   font-size: 12px;
-  transition: transform 0.2s ease;
   margin-right: 6px;
   flex-shrink: 0;
   cursor: pointer;
@@ -322,9 +321,6 @@ a.sidebar-nav-item:focus {
 .tree-children {
   margin-left: 20px;
   overflow: hidden;
-  transition:
-    max-height 0.3s ease-out,
-    opacity 0.3s ease-out;
 }
 
 .tree-children.collapsed {
