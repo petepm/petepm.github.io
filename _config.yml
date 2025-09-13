@@ -1,29 +1,31 @@
 # Dependencies
-gems:             [jekyll-paginate]
+plugins:
+  - jekyll-paginate
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 
 # Setup
-title:            "Pete Peterson"
-tagline:          "Pete Peterson Music"
-description:      ""
-url:              https://petepetersonmusic.com
-baseurl:          https://petepetersonmusic.com/
-permalink:        /:title
+title: "Pete Peterson"
+tagline: "Pete Peterson Music"
+description: ""
+url: https://petepetersonmusic.com
+baseurl: ""
 
 author:
-  name:           "Pete Peterson"
-  url:            https://twitter.com/petepm
+  name: "Pete Peterson"
+  url: https://petep.me
 
-paginate:         5
+paginate: 5
 
 github:
-  repo:           https://github.com/petepm/petepm.github.io
+  repo: https://github.com/petepm/petepm.github.io
 
+# Social
 github_username: petepm
 instagram_username: petep.me
 facebook_username: petepetersonmusic
 youtube_username: petepetersonmusic
 soundcloud_username: petepetersonmusic
 bandcamp_username: petepeterson
+threads_username: petepm
