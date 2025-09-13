@@ -1,2 +1,3 @@
-# petepm.github.io
-New Pete Peterson Music website. 
+# petep.me (petepetersonmusic.com)
+
+The Pete Peterson Music website.
