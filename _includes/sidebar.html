@@ -12,7 +12,12 @@
       <p class="lead">{{ site.description }}</p>
     </div>
 
-    <nav class="sidebar-nav">
+    <div class="sidebar-search">
+      <input type="text" id="sidebar-search-input" placeholder="Search for something..." autocomplete="off">
+      <div id="search-clear" class="search-clear" style="display: none;">×</div>
+    </div>
+
+    <nav class="sidebar-nav" id="sidebar-nav">
       {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.

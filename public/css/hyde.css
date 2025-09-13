@@ -351,6 +351,63 @@ a.sidebar-nav-item:focus {
   margin-left: 20px;
 }
 
+/* Sidebar Search Styles */
+.sidebar-search {
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.sidebar-search input {
+  width: 100%;
+  padding: 8px 12px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 25px;
+  color: #fff;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  box-sizing: border-box;
+}
+
+.sidebar-search input::placeholder {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.sidebar-search input:focus {
+  outline: none;
+  border-color: rgba(255, 255, 255, 0.4);
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.search-clear {
+  position: absolute;
+  right: 8px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: rgba(255, 255, 255, 0.6);
+  cursor: pointer;
+  font-size: 18px;
+  line-height: 1;
+  padding: 2px 4px;
+  user-select: none;
+}
+
+.search-clear:hover {
+  color: #fff;
+}
+
+/* Search result highlighting */
+.search-highlight {
+  background-color: rgba(255, 255, 0, 0.3);
+  border-radius: 2px;
+}
+
+/* Hide items that don't match search */
+.search-hidden {
+  display: none !important;
+}
+
 /* Maintain existing subitem styles for compatibility */
 .sidebar-nav-item.subitem {
   font-size: 80%;
