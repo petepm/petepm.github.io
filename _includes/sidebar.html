@@ -1,9 +1,11 @@
 <div class="sidebar">
+  <center>
     {% include social.html %}
+  </center>
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-        <a href="{{ site.baseurl }}">
+        <a href="/">
           {{ site.title }}
         </a>
       </h1>
@@ -11,41 +13,52 @@
     </div>
 
     <nav class="sidebar-nav">
-
       {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
+      The code below dynamically generates a sidebar nav of pages with
+      `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" and node.album == null and node.pagetype != "album" and node.title != "Music"%}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
-        {% endif %}
+      {% if node.title != null %}
+      {% if node.layout == "page" and node.album == null and node.pagetype != "album" and node.title != "Music"%}
+      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title
+        }}</a>
+      {% endif %}
+      {% endif %}
       {% endfor %}
 
       {% comment %}
-        Now add album pages
+      Music section - always expanded, no toggle
       {% endcomment %}
 
-      <a class="sidebar-nav-item{% if page.url == '/music/' %}  active{% endif %}" href="/music">Music</a>
+      <a class="sidebar-nav-item{% if page.url == '/music/' %} active{% endif %}" href="/music">Music</a>
 
-      {% assign albums_list = site.pages | sort: "date" | reverse %}
-      {% assign songs_list = site.pages | sort: "trackno" %}
-      {% for node in albums_list %}
+      <div class="music-albums">
+        {% assign albums_list = site.pages | sort: "date" | reverse %}
+        {% assign songs_list = site.pages | sort: "trackno" %}
+        {% for node in albums_list %}
         {% if node.title != null %}
-          {% if node.layout == "page" and node.pagetype == "album" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %} subitem" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
+        {% if node.layout == "page" and node.pagetype == "album" %}
+        <div class="tree-node">
+          <div class="tree-toggle{% if page.url == node.url %} active{% endif %}"
+            data-target="album-{{ forloop.index }}">
+            <span class="tree-icon">▶</span>
+            <a href="{{ node.url }}" class="tree-label">{{ node.title }}</a>
+          </div>
+          <div class="tree-children collapsed" id="album-{{ forloop.index }}">
+            {% for song in songs_list %}
+            {% if song.album and song.album == node.title and song.layout == "page" %}
+            <a class="sidebar-nav-item tree-leaf{% if page.url == song.url %} active{% endif %}"
+              href="{{ song.url }}">{{ song.title }}</a>
+            {% endif %}
+            {% endfor %}
+          </div>
+        </div>
         {% endif %}
-        {% for song in songs_list %}
-          {% if song.album and song.album == node.title and song.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == song.url %} active{% endif %} subsubitem" href="{{ song.url }}">{{ song.title }}</a>
-          {% endif%}
+        {% endif %}
         {% endfor %}
-      {% endfor %}
+      </div>
 
     </nav>
   </div>

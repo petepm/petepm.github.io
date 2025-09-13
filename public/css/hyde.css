@@ -13,7 +13,6 @@
  * https://github.com/poole/hyde.
  */
 
-
 /*
  * Contents
  *
@@ -23,7 +22,6 @@
  * Reverse layout
  * Themes
  */
-
 
 /*
  * Global resets
@@ -45,7 +43,6 @@ html {
   }
 }
 
-
 /*
  * Sidebar
  *
@@ -56,7 +53,7 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
+  color: rgba(255, 255, 255, 0.5);
   background-color: #202020;
   background-image: url("/images/profile-sidebar-right.png");
 }
@@ -78,10 +75,11 @@ html {
 
 /* About section */
 .sidebar-about h1 {
+  text-align: center;
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-family: "Times", serif;
+  font-size: 2.3rem;
 }
 
 /* Sidebar nav */
@@ -108,14 +106,14 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .sidebar-nav-item.subitem {
-      font-size: 90%;
-      margin-left: 17px;
+    font-size: 90%;
+    margin-left: 17px;
   }
 }
 @media (min-width: 48em) {
   .sidebar-nav-item.subsubitem {
-      font-size: 80%;
-      margin-left: 35px;
+    font-size: 80%;
+    margin-left: 35px;
   }
 }
 
@@ -128,12 +126,11 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
-    right:  1rem;
+    right: 1rem;
     top: 4rem;
-    left:   1rem;
+    left: 1rem;
   }
 }
-
 
 /* Container
  *
@@ -142,7 +139,7 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
+  padding-top: 4rem;
   padding-bottom: 4rem;
 }
 
@@ -160,7 +157,6 @@ a.sidebar-nav-item:focus {
     margin-right: 4rem;
   }
 }
-
 
 /*
  * Reverse layout
@@ -185,8 +181,6 @@ a.sidebar-nav-item:focus {
     margin-right: 22rem;
   }
 }
-
-
 
 /*
  * Themes
@@ -267,4 +261,117 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+/* Tree View Navigation Styles */
+.tree-node {
+  margin: 0;
+}
+
+.tree-toggle {
+  display: flex;
+  align-items: center;
+  color: rgba(255, 255, 255, 0.5);
+  text-decoration: none;
+  line-height: 1.75;
+  padding: 2px 0;
+  user-select: none;
+}
+
+.tree-toggle:hover {
+  color: #fff;
+}
+
+.tree-toggle.active {
+  color: #fff;
+  font-weight: bold;
+}
+
+.tree-icon {
+  display: inline-block;
+  width: 16px;
+  font-size: 12px;
+  transition: transform 0.2s ease;
+  margin-right: 6px;
+  flex-shrink: 0;
+  cursor: pointer;
+  padding: 2px;
+  border-radius: 2px;
+}
+
+.tree-icon:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.tree-toggle.expanded .tree-icon {
+  transform: rotate(90deg);
+}
+
+.tree-label {
+  color: inherit;
+  text-decoration: none;
+  flex: 1;
+  cursor: pointer;
+}
+
+.tree-label:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.tree-children {
+  margin-left: 20px;
+  overflow: hidden;
+  transition:
+    max-height 0.3s ease-out,
+    opacity 0.3s ease-out;
+}
+
+.tree-children.collapsed {
+  max-height: 0;
+  opacity: 0;
+}
+
+.tree-children.expanded {
+  max-height: 1000px;
+  opacity: 1;
+}
+
+.tree-leaf {
+  margin-left: 22px;
+  font-size: 90%;
+}
+
+/* Music albums container (always expanded) */
+.music-albums {
+  margin-left: 0;
+}
+
+.music-albums .tree-node {
+  margin-left: 20px;
+}
+
+/* Maintain existing subitem styles for compatibility */
+.sidebar-nav-item.subitem {
+  font-size: 80%;
+}
+
+.sidebar-nav-item.subsubitem {
+  font-size: 70%;
+}
+
+@media (min-width: 48em) {
+  .sidebar-nav-item.subitem {
+    font-size: 90%;
+    margin-left: 17px;
+  }
+
+  .sidebar-nav-item.subsubitem {
+    font-size: 80%;
+    margin-left: 35px;
+  }
+
+  .tree-leaf {
+    font-size: 80%;
+  }
 }
