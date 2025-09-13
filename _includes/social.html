@@ -1,15 +1,9 @@
 <!-- Social media icons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 
-{% if site.twitter_username %}
-<a href="https://twitter.com/{{ site.twitter_username }}" target="_blank" rel="noopener noreferrer">
-  <i class="fa-brands fa-twitter"></i>
-</a>
-{% endif %}
-
-{% if site.threads_username %}
-<a href="https://threads.com/@{{ site.threads_username }}" target="_blank" rel="noopener noreferrer">
-  <i class="fa-brands fa-threads"></i>
+{% if site.youtube_username %}
+<a href="https://youtube.com/@{{ site.youtube_username }}" target="_blank" rel="noopener noreferrer">
+  <i class="fa-brands fa-youtube"></i>
 </a>
 {% endif %}
 
@@ -19,15 +13,27 @@
 </a>
 {% endif %}
 
-{% if site.youtube_username %}
-<a href="https://youtube.com/{{ site.youtube_username }}" target="_blank" rel="noopener noreferrer">
-  <i class="fa-brands fa-youtube"></i>
-</a>
-{% endif %}
-
 {% if site.instagram_username %}
 <a href="https://instagram.com/{{ site.instagram_username }}" target="_blank" rel="noopener noreferrer">
   <i class="fa-brands fa-instagram"></i>
+</a>
+{% endif %}
+
+{% if site.tiktok_username %}
+<a href="https://tiktok.com/@{{ site.tiktok_username }}" target="_blank" rel="noopener noreferrer">
+  <i class="fa-brands fa-tiktok"></i>
+</a>
+{% endif %}
+
+{% if site.twitter_username %}
+<a href="https://twitter.com/{{ site.twitter_username }}" target="_blank" rel="noopener noreferrer">
+  <i class="fa-brands fa-twitter"></i>
+</a>
+{% endif %}
+
+{% if site.threads_username %}
+<a href="https://threads.com/@{{ site.threads_username }}" target="_blank" rel="noopener noreferrer">
+  <i class="fa-brands fa-threads"></i>
 </a>
 {% endif %}
 
@@ -46,5 +52,17 @@
 {% if site.bandcamp_username %}
 <a href="https://{{ site.bandcamp_username }}.bandcamp.com" target="_blank" rel="noopener noreferrer">
   <i class="fa-brands fa-bandcamp"></i>bc
+</a>
+{% endif %}
+
+{% if site.spotify_url %}
+<a href="{{ site.spotify_url }}" target="_blank" rel="noopener noreferrer">
+  <i class="fa-brands fa-spotify"></i>
+</a>
+{% endif %}
+
+{% if site.apple_music_url %}
+<a href="{{ site.apple_music_url }}" target="_blank" rel="noopener noreferrer">
+  <i class="fa-brands fa-apple"></i>
 </a>
 {% endif %}
