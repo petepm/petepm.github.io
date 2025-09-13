@@ -9,36 +9,36 @@ document.addEventListener("DOMContentLoaded", function () {
   // Handle tree toggle clicks
   const treeToggles = document.querySelectorAll(".tree-toggle");
   treeToggles.forEach((toggle) => {
-    // Handle clicks on the tree icon only
+    // Handle clicks on the tree icon only (desktop) or the entire toggle (mobile)
     const treeIcon = toggle.querySelector(".tree-icon");
+
+    // Desktop: click only on icon
     if (treeIcon) {
       treeIcon.addEventListener("click", function (e) {
         e.preventDefault();
         e.stopPropagation();
-
-        const targetId = toggle.getAttribute("data-target");
-        const targetElement = document.getElementById(targetId);
-
-        if (targetElement) {
-          // Toggle the expanded/collapsed state
-          const isExpanded = targetElement.classList.contains("expanded");
-
-          if (isExpanded) {
-            targetElement.classList.remove("expanded");
-            targetElement.classList.add("collapsed");
-            toggle.classList.remove("expanded");
-          } else {
-            targetElement.classList.remove("collapsed");
-            targetElement.classList.add("expanded");
-            toggle.classList.add("expanded");
-          }
-
-          // Store the state in localStorage
-          const storageKey = "tree-" + targetId;
-          localStorage.setItem(storageKey, !isExpanded);
-        }
+        toggleTreeNode(toggle);
       });
     }
+
+    // Mobile: click on entire toggle when icons are hidden
+    toggle.addEventListener("click", function (e) {
+      // Only handle if we're on mobile (icons hidden) or if clicking outside the icon
+      const isMobile = window.innerWidth <= 767;
+      const clickedIcon = e.target.classList.contains("tree-icon");
+
+      if (isMobile || !clickedIcon) {
+        // Don't interfere with link navigation on the tree-label
+        if (
+          !e.target.classList.contains("tree-label") &&
+          !e.target.closest(".tree-label")
+        ) {
+          e.preventDefault();
+          e.stopPropagation();
+          toggleTreeNode(toggle);
+        }
+      }
+    });
 
     // Handle keyboard accessibility on the toggle
     toggle.addEventListener("keydown", function (e) {
@@ -53,14 +53,36 @@ document.addEventListener("DOMContentLoaded", function () {
         // If Space is pressed, toggle the tree
         if (e.key === " ") {
           e.preventDefault();
-          const treeIcon = this.querySelector(".tree-icon");
-          if (treeIcon) {
-            treeIcon.click();
-          }
+          toggleTreeNode(toggle);
         }
       }
     });
   });
+
+  // Helper function to toggle tree nodes
+  function toggleTreeNode(toggle) {
+    const targetId = toggle.getAttribute("data-target");
+    const targetElement = document.getElementById(targetId);
+
+    if (targetElement) {
+      // Toggle the expanded/collapsed state
+      const isExpanded = targetElement.classList.contains("expanded");
+
+      if (isExpanded) {
+        targetElement.classList.remove("expanded");
+        targetElement.classList.add("collapsed");
+        toggle.classList.remove("expanded");
+      } else {
+        targetElement.classList.remove("collapsed");
+        targetElement.classList.add("expanded");
+        toggle.classList.add("expanded");
+      }
+
+      // Store the state in localStorage
+      const storageKey = "tree-" + targetId;
+      localStorage.setItem(storageKey, !isExpanded);
+    }
+  }
 
   // Auto-expand logic: both parents (when viewing children) and children (when viewing parents)
   const activeItems = document.querySelectorAll(
@@ -213,6 +235,33 @@ document.addEventListener("DOMContentLoaded", function () {
                 albumChildren.classList.add("expanded");
                 albumToggle.classList.add("expanded");
               }
+            }
+
+            // Also ensure the main music section is expanded when searching
+            const musicTree = document.getElementById("music-tree");
+            const musicToggle = document.querySelector(
+              '[data-target="music-tree"]',
+            );
+            if (musicTree && musicToggle) {
+              musicTree.classList.remove("collapsed");
+              musicTree.classList.add("expanded");
+              musicToggle.classList.add("expanded");
+            }
+          }
+
+          // If this is an album, ensure music section is expanded
+          if (
+            item.classList.contains("tree-toggle") &&
+            item.closest(".music-albums")
+          ) {
+            const musicTree = document.getElementById("music-tree");
+            const musicToggle = document.querySelector(
+              '[data-target="music-tree"]',
+            );
+            if (musicTree && musicToggle) {
+              musicTree.classList.remove("collapsed");
+              musicTree.classList.add("expanded");
+              musicToggle.classList.add("expanded");
             }
           }
         } else {

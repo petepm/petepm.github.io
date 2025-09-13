@@ -428,3 +428,123 @@ a.sidebar-nav-item:focus {
     font-size: 80%;
   }
 }
+
+/* Mobile Responsiveness Fixes */
+/* Ensure social icons are centered on mobile */
+@media (max-width: 47.9em) {
+  .sidebar {
+    text-align: center;
+  }
+
+  .sidebar-about {
+    text-align: center;
+  }
+
+  /* Make sure social icons container is centered */
+  center {
+    display: block;
+    text-align: center;
+  }
+
+  /* Add some spacing between social icons on mobile */
+  .sidebar a {
+    margin: 0 8px;
+    display: inline-block;
+  }
+
+  /* Make music section collapsible on mobile */
+  .music-section .music-albums {
+    margin-left: 0;
+  }
+
+  /* Center the tree toggles with icons next to text */
+  .tree-toggle {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+  }
+
+  .tree-icon {
+    display: inline-block;
+    margin-right: 6px;
+    flex-shrink: 0;
+  }
+
+  .tree-label {
+    text-align: center;
+    display: inline-block;
+    flex-shrink: 0;
+  }
+
+  /* Adjust tree node spacing on mobile */
+  .tree-node {
+    margin-left: 0;
+  }
+
+  .music-albums .tree-node {
+    margin-left: 0;
+  }
+
+  /* Center tree leaf items (subpages) on mobile */
+  .tree-leaf {
+    margin-left: 0;
+    text-align: center;
+  }
+
+  /* Center the children containers on mobile */
+  .tree-children {
+    margin-left: 0;
+  }
+}
+
+/* Desktop: Music section always expanded */
+@media (min-width: 48em) {
+  .music-toggle-icon {
+    display: none;
+  }
+
+  .music-section #music-tree {
+    display: block !important;
+    max-height: none !important;
+    opacity: 1 !important;
+  }
+
+  .music-section #music-tree.collapsed {
+    display: block !important;
+    max-height: none !important;
+    opacity: 1 !important;
+  }
+}
+
+/* Responsive YouTube embeds and iframes */
+.video-container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  margin: 1rem 0;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Generic responsive iframe styling for any embedded videos */
+iframe {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Specific YouTube embed responsiveness */
+iframe[src*="youtube.com"],
+iframe[src*="youtu.be"] {
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+}
