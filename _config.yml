@@ -3,7 +3,7 @@ plugins:
   - jekyll-paginate
 
 # Permalinks
-permalink: pretty
+permalink: /posts/:title/
 
 # Setup
 title: "Pete Peterson"

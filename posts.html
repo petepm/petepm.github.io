@@ -1,0 +1,116 @@
+---
+layout: page
+title: Posts
+---
+
+<div class="search-container" style="margin-bottom: 2rem;">
+  <input type="text" id="search-input" placeholder="Search posts by title, date, or content..." style="width: 100%; padding: 0.5rem; font-size: 1rem; border: 1px solid #ccc; border-radius: 4px;">
+  <p id="search-results-count" style="margin-top: 0.5rem; color: #666;"></p>
+</div>
+
+<div id="posts-list">
+  {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+  {% for post in sorted_posts %}
+  <div class="post-item" data-title="{{ post.title | downcase }}" data-date="{{ post.date | date: '%B %d, %Y' | downcase }}" data-content="{{ post.content | strip_html | strip_newlines | downcase | truncate: 500 }}">
+    <h2 class="post-title">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h2>
+    <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
+    {% if post.excerpt %}
+    <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+    {% endif %}
+    <hr>
+  </div>
+  {% endfor %}
+</div>
+
+<style>
+  .search-container {
+    position: sticky;
+    top: 0;
+    background: white;
+    padding: 1rem 0;
+    z-index: 100;
+  }
+
+  .post-item {
+    margin-bottom: 1.5rem;
+  }
+
+  .post-item.hidden {
+    display: none;
+  }
+
+  .post-title {
+    margin-bottom: 0.25rem;
+  }
+
+  .post-date {
+    color: #999;
+    font-size: 0.9rem;
+  }
+
+  #search-input:focus {
+    outline: none;
+    border-color: #AC4142;
+  }
+
+  mark {
+    background-color: #fff8dc;
+    padding: 0 2px;
+  }
+</style>
+
+<script>
+  (function() {
+    const searchInput = document.getElementById('search-input');
+    const postsContainer = document.getElementById('posts-list');
+    const postItems = document.querySelectorAll('.post-item');
+    const resultsCount = document.getElementById('search-results-count');
+
+    function updateResultsCount(count) {
+      const total = postItems.length;
+      if (searchInput.value.trim() === '') {
+        resultsCount.textContent = `Showing all ${total} posts`;
+      } else {
+        resultsCount.textContent = `Found ${count} of ${total} posts`;
+      }
+    }
+
+    function searchPosts() {
+      const searchTerm = searchInput.value.toLowerCase().trim();
+      let visibleCount = 0;
+
+      postItems.forEach(function(item) {
+        const title = item.getAttribute('data-title');
+        const date = item.getAttribute('data-date');
+        const content = item.getAttribute('data-content');
+
+        const searchableText = title + ' ' + date + ' ' + content;
+
+        if (searchTerm === '' || searchableText.includes(searchTerm)) {
+          item.classList.remove('hidden');
+          visibleCount++;
+        } else {
+          item.classList.add('hidden');
+        }
+      });
+
+      updateResultsCount(visibleCount);
+    }
+
+    // Search on input
+    searchInput.addEventListener('input', searchPosts);
+
+    // Initialize count
+    updateResultsCount(postItems.length);
+
+    // Focus search on '/' key press
+    document.addEventListener('keydown', function(e) {
+      if (e.key === '/' && document.activeElement !== searchInput) {
+        e.preventDefault();
+        searchInput.focus();
+      }
+    });
+  })();
+</script>
