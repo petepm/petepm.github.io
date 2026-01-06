@@ -3,7 +3,8 @@ comments: false
 date: 2026-01-08
 layout: post
 title: >
-  Prompting pals for percussive parts: Can humans create better drums than AI?
+  Pete Peterson prompts pals for potential percussive parts:
+  Can humans create better drums than AI?
 categories:
 - Experiments
 - Composition
