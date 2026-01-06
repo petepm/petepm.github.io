@@ -2,15 +2,17 @@
 comments: false
 date: 2026-01-08
 layout: post
-title: Can humans make better drums than AI?
+title: >
+  Prompting pals for percussive parts: Can humans create better drums than AI?
 categories:
 - Experiments
 - Composition
 ---
 
+In case you haven't noticed,
 Artificial Intelligence (AI) is all the rage these days,
 and quite a few Internet Musicians are helping to advertise products like
-Suno, which use AI to generate music.
+Suno, which uses AI to generate music.
 
 I have no interest in listening to AI generated music,
 since I like humans.
@@ -38,6 +40,14 @@ I also wanted to open it up to anyone else to try their hand at composing
 and/or recording drums.
 If they're cool enough to use in a release,
 I'll give you $100 for MIDI and $200 for nicely recorded audio.
+
+Here's your prompt:
+
+>Create some fun and exciting drums for this prog-metal song with
+>some honky tonk vibes.
+>
+>Here are some descriptions for how I imagine each part should sound:
+>
 
 The deadline for submission is March 31st, 2026.
 You can email entries to pete.peterson.music@gmail.com with the subject:
