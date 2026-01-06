@@ -1,13 +1,10 @@
 ---
 comments: false
-date: 2026-01-08
+date: 2026-01-01
 layout: post
 title: >
   Pete Peterson prompts pals for potential percussive parts:
   Can humans create better drums than AI?
-categories:
-- Experiments
-- Composition
 ---
 
 In case you haven't noticed,
