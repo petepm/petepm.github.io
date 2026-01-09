@@ -40,10 +40,18 @@ and/or recording drums.
 If they're cool enough to use in a release,
 I'll give you $100 for MIDI and $200 for nicely recorded audio.
 
+There's only one constraint on the drums at the very end,
+and that's there because it will flow into the next tune.
+
 The deadline for submission is roughly March 31st, 2026.
+The audio and "prompt" are in sections below.
 You can email entries to pete.peterson.music@gmail.com with the subject:
 "Human vs AI drums".
 Good luck, humans!
+
+## The audio
+
+You can download a WAV file of the guitars and piano TODO.
 
 ## The prompt
 
