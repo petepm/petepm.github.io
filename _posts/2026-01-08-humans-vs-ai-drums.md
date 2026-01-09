@@ -17,7 +17,8 @@ since I like humans.
 This may be surprising, but it's true.
 One of the great things about music is that it's made by humans.
 You get to know someone through their music.
-You build a kind of relationship with other listeners, etc.
+You build a kind of relationship with the artist,
+other listeners, etc.
 
 But it seems like the industry is going that way.
 When you treat music as a product, and some technology allows you to create
@@ -39,15 +40,19 @@ and/or recording drums.
 If they're cool enough to use in a release,
 I'll give you $100 for MIDI and $200 for nicely recorded audio.
 
-Here's your prompt:
-
->Create some fun and exciting drums for this prog-metal song with
->some honky tonk vibes.
->
->Here are some descriptions for how I imagine each part should sound:
->
-
-The deadline for submission is March 31st, 2026.
+The deadline for submission is roughly March 31st, 2026.
 You can email entries to pete.peterson.music@gmail.com with the subject:
 "Human vs AI drums".
 Good luck, humans!
+
+## The prompt
+
+Create some fun and exciting drums for this prog-metal song with
+some honky tonk vibes.
+
+Here are some descriptions for how I imagine each part should sound,
+along with tempos and timestamps:
+
+| Start timestamp | Tempo (BPM) | Name | Description |
+|-----------------|-------------|------|-------------|
+| 00:xx           |     xxx     | Count-in | Nothing here. Just TODO beats of silence |
