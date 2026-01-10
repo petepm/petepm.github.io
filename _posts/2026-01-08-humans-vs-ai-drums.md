@@ -3,48 +3,59 @@ comments: false
 date: 2026-01-10
 layout: post
 title: >
-  Pete Peterson prompts pals for potential percussive parts:
+  Pete Peterson Prompts Pals for Potential Percussive Parts:
   Can humans create better drums than AI?
 ---
 
 In case you haven't noticed,
 Artificial Intelligence (AI) is all the rage these days,
-and quite a few Internet Musicians are helping to advertise products like
-Suno, which uses AI to generate music.
+and quite a few musicians are promoting products
+that use AI to generate music.
 
-I have no interest in listening to AI generated music,
+I have no interest in listening to AI-generated music,
 since I like humans.
 This may be surprising, but it's true.
-One of the great things about music is that it's made by humans.
-You get to know someone through their music.
+The technology is interesting,
+but one of tne of the great things about music is that it's art, i.e.,
+it's made by humans who have something to share.
+You get to know someone through their art.
 You build a kind of relationship with the artist,
 other listeners, etc.
+So, music created by AI is not really art.
+It's more of a sonic decoration created by averaging together a bunch
+of art.
 
 But it seems like the industry is going that way.
-When you treat music as a product, and some technology allows you to create
+When you treat music as a product, and some technology comes along that
+allows you to create
 that product more cheaply, it's going to get used.
+This has happened with digital recording tools.
+Hell, I probably wouldn't be making music if not for technology invented
+in the last few decades.
 
-However, I wanted to do an experiment to see how good AI can do with
+In any case, I wanted to do an experiment to see how good AI can do with
 more unconventional music.
-See, these models are trained to produce the most likely output,
-which you could think of as the most generic, average, etc.
-I personally believe composers and musicians should be creating new
-and unique things.
+Since the models are trained to produce the most likely output,
+which you could think of as the most generic, average, etc.,
+you would expect nothing that novel to come out.
+However, you could imagine some human creativity follows
+similar algorithms.
+Note that I have no idea what the scientific literature says on this.
 
-I also wanted to pit AI against humans to see how it goes.
-In this case,
+In this experiment we pit AI against humans to see
+which can create the most interesting and enjoyable drums.
 I wrote a short tune and will send it off to a few session drummers
-with no drums on it at all.
+with my own programmed drums omitted.
 I also wanted to open it up to anyone else to try their hand at composing
 and/or recording drums.
-If they're cool enough to use in a release,
-I'll give you $100 for MIDI and $200 for nicely recorded audio.
-
-There's only one constraint on the drums at the very end,
-and that's there because it will flow into the next tune.
+So, I encourage anyone to give it a try.
+If I like them enough to use in one of the releases,
+I'll pay $100 for MIDI and $250 for nicely recorded audio.
 
 The deadline for submission is roughly March 31st, 2026.
 The audio and "prompt" are in sections below.
+As you can see, there's only one constraint on the drums at the very end,
+and that's there because it will flow into the next tune.
 You can email entries to pete.peterson.music@gmail.com with the subject:
 "Human vs AI drums".
 Have fun, humans!
