@@ -66,3 +66,7 @@ along with tempos and timestamps:
 | 00:00–00:02 | 100 | Count-in    | Nothing here. |
 | 00:02–00:18 | 100 | Intro | This part reminds me of a mix of Plini and The Faceless. It should feel powerful. |
 | 00:18–00:21 | 100 | Chicken honk | Old-timey country bluegrass feel. Drums should not be overpowering here. It's not a heavy part. |
+| 00:21–00:28 | 100 | Intro more | Back to heavy, powerful, toms, snare, crashes. |
+| 00:28–00:30 | 100 | Chicken tonk | Back to old-timey country whatever. |
+| 00:30–00:35 | 100 | Intro more redux | Back to powerful. Come in swinging with snares and crashes. |
+| 00:35–00:38 | 150 | Country beetles | Tempo actually switches at 00:32.7. I feel something like a train beat but with some ride bell. |
