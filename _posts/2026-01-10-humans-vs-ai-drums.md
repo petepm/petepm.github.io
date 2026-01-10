@@ -8,11 +8,12 @@ title: >
 ---
 
 In case you haven't noticed,
-Artificial Intelligence (AI) is all the rage these days,
-and quite a few musicians are promoting products
+Artificial Intelligence (AI) is all the rage these days.
+It's disrupting many industries,
+and many popular musicians have taken to promoting products
 that use AI to generate music.
 
-I have no interest in listening to AI-generated music,
+Frankly, I have no interest in listening to AI-generated music,
 since I like humans.
 This may be surprising, but it's true.
 The technology is interesting,
@@ -29,7 +30,8 @@ But it seems like the industry is going that way.
 When you treat music as a product, and some technology comes along that
 allows you to create
 that product more cheaply, it's going to get used.
-This has happened with digital recording tools.
+Other digital recording tools have had similar effects,
+lowering the cost of creation.
 Hell, I probably wouldn't be making music if not for technology invented
 in the last few decades.
 
@@ -37,26 +39,31 @@ In any case, I wanted to do an experiment to see how good AI can do with
 more unconventional music.
 Since the models are trained to produce the most likely output,
 which you could think of as the most generic, average, etc.,
-you would expect nothing that novel to come out.
+you would expect its output to be not so novel.
 However, you could imagine some human creativity follows
 similar algorithms.
-Note that I have no idea what the scientific literature says on this.
+(Note that I have no idea what the scientific literature says on this.)
 
 In this experiment we pit AI against humans to see
-which can create the most interesting and enjoyable drums.
+who can create the most interesting and enjoyable drums.
 I wrote a short tune and will send it off to a few session drummers
 with my own programmed drums omitted.
+I will feed the same audio and text prompt into an AI model,
+or maybe a few, to see what comes out.
+
 I also wanted to open it up to anyone else to try their hand at composing
 and/or recording drums.
 So, I encourage anyone to give it a try.
 If I like them enough to use in one of the releases,
-I'll pay $100 for MIDI and $250 for nicely recorded audio.
+I'll pay $100 for MIDI and $250 for high quality recorded audio.
 
 The deadline for submission is roughly March 31st, 2026.
 The audio and "prompt" are in sections below.
 As you can see, there's only one constraint on the drums at the very end,
 and that's there because it will flow into the next tune.
-You can email entries to pete.peterson.music@gmail.com with the subject:
+You can email entries to
+[pete.peterson.music@gmail.com](mailto:pete.peterson.music@gmail.com)
+with the subject:
 "Human vs AI drums".
 Have fun, humans!
 
