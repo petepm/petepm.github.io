@@ -1,6 +1,6 @@
 ---
 comments: false
-date: 2026-01-01
+date: 2026-01-10
 layout: post
 title: >
   Pete Peterson prompts pals for potential percussive parts:
@@ -47,7 +47,7 @@ The deadline for submission is roughly March 31st, 2026.
 The audio and "prompt" are in sections below.
 You can email entries to pete.peterson.music@gmail.com with the subject:
 "Human vs AI drums".
-Good luck, humans!
+Have fun, humans!
 
 ## The audio
 
@@ -58,15 +58,23 @@ You can download a WAV file of the guitars and piano TODO.
 Create some fun and exciting drums for this prog-metal song with
 some honky tonk vibes.
 
-Here are some descriptions for how I imagine each part should sound,
-along with tempos and timestamps:
+Below are some descriptions for how I imagine each part should sound,
+along with tempos and timestamps.
+You don't need to take every description literally,
+as if that would even be possible for most of them.
+They are meant to be abstract so you have some room to be creative.
 
 | Time range | Tempo (BPM) | Name | Description |
 |------------|-------------|------|-------------|
 | 00:00–00:02 | 100 | Count-in    | Nothing here. |
 | 00:02–00:18 | 100 | Intro | This part reminds me of a mix of Plini and The Faceless. It should feel powerful. |
-| 00:18–00:21 | 100 | Chicken honk | Old-timey country bluegrass feel. Drums should not be overpowering here. It's not a heavy part. |
-| 00:21–00:28 | 100 | Intro more | Back to heavy, powerful, toms, snare, crashes. |
-| 00:28–00:30 | 100 | Chicken tonk | Back to old-timey country whatever. |
-| 00:30–00:35 | 100 | Intro more redux | Back to powerful. Come in swinging with snares and crashes. |
-| 00:35–00:38 | 150 | Country beetles | Tempo actually switches at 00:32.7. I feel something like a train beat but with some ride bell. |
+| 00:18–00:21 | 100 | Chicken Honk | Old-timey country bluegrass feel. Drums should not be overpowering here. It's not a heavy part. |
+| 00:21–00:28 | 100 | Intro More | Back to heavy, powerful, toms, snare, crashes. |
+| 00:28–00:30 | 100 | Chicken Tonk | Back to old-timey country whatever. |
+| 00:30–00:35 | 100 | Intro More Redux | Back to powerful. Come in swinging with snares and crashes. Maybe blasty with kicks between. |
+| 00:35–00:38 | 150 | Country Beetles | Tempo actually switches at 00:32.7. I feel something like a train beat but with some ride bell. |
+| 00:38–00:49 | 100 | Mystery Holly | Tempo switches at 00:37.9. Crispy hats and kick following the higher pitch piano stabs. |
+| 00:49–00:58 | 150 | Bumpkin Donuts | Tempo switches at 00:47.35. Maybe skanky. Hats, kick, snare. Nothing too complex. Choke on the pinch harmonic, where it gets a little heavy. |
+| 00:58–01:34 | 133.333 | Vital Sines | Tempo change at 00:55.35 to lead in. This part kind of reminds me of the verse in Rush's "Vital Signs". |
+| 01:34–01:45 | 100 | Feral Bleat Marine | Tempo change at 01:32.25 to lead in. Sidestickin' and kickin' like the softer solo in Future Breed Machine. |
+| 01:45–02:24 | 100 | Don't Bread on Me | Slow _Djent_ breakdown-ish to start. Ya know, china, kick following the palm-muted guitars, sparse, slow snares. Eventually gets march-y. Reminds me a little of "Don't Tread on Me". Must end the song with the snare flams and kicks since that's how the next song starts. |
