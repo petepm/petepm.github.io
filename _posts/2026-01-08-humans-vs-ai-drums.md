@@ -56,7 +56,7 @@ You can download a WAV file of the guitars and piano TODO.
 ## The prompt
 
 Create some fun and exciting drums for this prog-metal song with
-some honky tonk vibes.
+some honky-tonk vibes.
 
 Below are some descriptions for how I imagine each part should sound,
 along with tempos and timestamps.
