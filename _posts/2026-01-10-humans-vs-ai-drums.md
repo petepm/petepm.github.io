@@ -30,7 +30,7 @@ But it seems like the industry is going that way.
 When you treat music as a product, and some technology comes along that
 allows you to create
 that product more cheaply, it's going to get used.
-Other digital recording tools have had similar effects,
+Other digital recording tools have had similar effects, i.e.,
 lowering the cost of creation.
 Hell, I probably wouldn't be making music if not for technology invented
 in the last few decades.
