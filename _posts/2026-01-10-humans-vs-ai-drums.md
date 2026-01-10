@@ -57,7 +57,7 @@ So, I encourage anyone to give it a try.
 If I like them enough to use in one of the releases
 (there might be multiple, with some re-recorded guitars, bass, vocals, etc.,
 but there will probably only be one on the album),
-I'll pay $100 for MIDI and $250 for high quality recorded audio.
+I'll pay $75 for MIDI and $250 for high quality recorded audio.
 
 The deadline for submission is roughly March 31st, 2026.
 The audio and "prompt" are in sections below.
