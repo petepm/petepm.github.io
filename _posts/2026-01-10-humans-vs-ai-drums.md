@@ -54,7 +54,8 @@ or maybe a few, to see what comes out.
 I also wanted to open it up to anyone else to try their hand at composing
 and/or recording drums.
 So, I encourage anyone to give it a try.
-If I like them enough to use in one of the releases,
+If I like them enough to use in one of the releases
+(with some re-recorded guitars and probably vocals),
 I'll pay $100 for MIDI and $250 for high quality recorded audio.
 
 The deadline for submission is roughly March 31st, 2026.
