@@ -61,6 +61,8 @@ some honky tonk vibes.
 Here are some descriptions for how I imagine each part should sound,
 along with tempos and timestamps:
 
-| Start timestamp | Tempo (BPM) | Name | Description |
-|-----------------|-------------|------|-------------|
-| 00:xx           |     xxx     | Count-in | Nothing here. Just TODO beats of silence |
+| Time range | Tempo (BPM) | Name | Description |
+|------------|-------------|------|-------------|
+| 00:00–00:02 | 100 | Count-in    | Nothing here. |
+| 00:02–00:18 | 100 | Intro | This part reminds me of a mix of Plini and The Faceless. It should feel powerful. |
+| 00:18–00:21 | 100 | Chicken honk | Old-timey country bluegrass feel. Drums should not be overpowering here. It's not a heavy part. |
