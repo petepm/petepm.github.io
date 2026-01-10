@@ -46,7 +46,9 @@ similar algorithms.
 
 In this experiment we pit AI against humans to see
 who can create the most interesting and enjoyable drums.
-I wrote a short tune and will send it off to a few session drummers
+I wrote a short tune
+(likely to be track 10 on [_Greyleaf_](/music/greyleaf/))
+and will send it off to a few session drummers
 with my own programmed drums omitted.
 I will feed the same audio and text prompt into an AI model,
 or maybe a few, to see what comes out.
@@ -71,7 +73,9 @@ Have fun, humans!
 
 ## The audio
 
-You can download a WAV file of the guitars and piano TODO.
+You can download a WAV file of the guitars and piano [here](TODO).
+A MIDI file of just the piano, from which you can extract a tempo track,
+can be downloaded [here](TODO).
 
 ## The prompt
 
