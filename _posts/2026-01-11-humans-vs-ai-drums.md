@@ -71,13 +71,15 @@ Have fun, humans, and beat those robots!
 
 ## The inputs
 
-You can download a WAV file of the guitars and piano [here](TODO).
+You can download a WAV file of the guitars and piano
+[here](https://drive.google.com/file/d/1StmQQlgCfvCbRN1g7sa-ObsCTH9r2Pi8/view?usp=sharing).
 A MIDI file of just the piano, from which you can extract a tempo track,
-can be downloaded [here](TODO).
+can be downloaded
+[here](https://drive.google.com/file/d/1PrGZSO7EWS7woOT8TtHTAcaQnyy-jwAR/view?usp=sharing).
 
 ### The prompt
 
-Create some fun and exciting drums for this prog-metal song with
+Create some fun and exciting drums for this prog metal song with
 some honky-tonk vibes.
 
 Below are some descriptions for how I imagine each part should sound,
