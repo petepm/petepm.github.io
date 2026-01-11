@@ -15,9 +15,9 @@ that use AI to generate music.
 
 Frankly, I have no interest in listening to AI-generated music,
 since I like humans.
-This may be surprising, but it's true.
+That may be surprising, but it's true.
 The technology is interesting,
-but one of tne of the great things about music is that it's art, i.e.,
+but one of the great things about music is that it's art, i.e.,
 it's made by humans who have something to share.
 You get to know someone through their art.
 You build a kind of relationship with the artist,
