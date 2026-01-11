@@ -92,7 +92,7 @@ They are meant to be abstract so you have some room to be creative.
 |------------|-------------|------|-------------|
 | 00:00–00:02 | 100 | Count-in    | Nothing here. |
 | 00:02–00:18 | 100 | Intro | This part reminds me of a mix of Plini and The Faceless. It should feel powerful. |
-| 00:18–00:21 | 100 | Chicken Honk | Old-timey country bluegrass feel. Drums should not be overpowering here. It's not a heavy part. |
+| 00:18–00:21 | 100 | Chicken Honk | Old-timey honky-tonk country feel. Drums should not be overpowering here. It's not a heavy part. |
 | 00:21–00:28 | 100 | Intro More | Back to heavy, powerful, toms, snare, crashes. |
 | 00:28–00:30 | 100 | Chicken Tonk | Back to old-timey country whatever. |
 | 00:30–00:35 | 100 | Intro More Redux | Back to powerful. Come in swinging with snares and crashes. Maybe blasty with kicks between. |
