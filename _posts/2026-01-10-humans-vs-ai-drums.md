@@ -9,20 +9,18 @@ title: >
 
 In case you haven't noticed,
 Artificial Intelligence (AI) is all the rage these days.
-It's disrupting many industries,
+It's disrupting all sorts of industries,
 and many popular musicians have taken to promoting products
 that use AI to generate music.
 
-Frankly, I have no interest in listening to AI-generated music,
-since I like humans.
-That may be surprising, but it's true.
+Frankly, I have no interest in listening to AI-generated music.
 The technology is interesting,
 but one of the great things about music is that it's art, i.e.,
-it's made by humans who have something to share.
+it's made by humans who have something to share and work hard to do so.
 You get to know someone through their art.
-You build a kind of relationship with the artist,
-other listeners, etc.
-So, music created by AI is not really art.
+You build a kind of relationship with the artist and
+other listeners.
+So, per that measure music created by AI is not really art.
 It's more of a sonic decoration created by averaging together a bunch
 of art.
 
@@ -35,49 +33,49 @@ lowering the cost of creation.
 Hell, I probably wouldn't be making music if not for technology invented
 in the last few decades.
 
-In any case, I wanted to do an experiment to see how good AI can do with
+In any case, I wanted to do an experiment to see how well AI can do with
 more unconventional music.
 Since the models are trained to produce the most likely output,
 which you could think of as the most generic, average, etc.,
-you would expect its output to be not so novel.
-However, you could imagine some human creativity follows
-similar algorithms.
-(Note that I have no idea what the scientific literature says on this.)
+you would expect the output to be not so novel.
+On the other hand, I have very little experience with AI music generators,
+so I don't really know what to expect,
+other than that I believe humans will do a better job.
 
 In this experiment we pit AI against humans to see
 who can create the most interesting and enjoyable drums.
 I wrote a short tune
 (likely to be track 10 on [_Greyleaf_](/music/greyleaf/))
-and will send it off to a few session drummers
+and will send it off to your favorite drummer
+([Travis Orbin](https://travisorbin.com))
 with my own programmed drums omitted.
 I will feed the same audio and text prompt into an AI model,
 or maybe a few, to see what comes out.
 
 I also wanted to open it up to anyone else to try their hand at composing
-and/or recording drums.
-So, I encourage anyone to give it a try.
-If I like them enough to use in one of the releases
-(there might be multiple, with some re-recorded guitars, bass, vocals, etc.,
-but there will probably only be one on the album),
+and/or recording drums,
+and that includes you!
+If I like them enough to use in a release
+(there might be multiple, with some re-recorded guitars, bass, vocals, etc.),
 I'll pay $75 for MIDI and $250 for high quality recorded audio.
 
 The deadline for submission is roughly March 31st, 2026.
 The audio and "prompt" are in sections below.
 As you can see, there's only one constraint on the drums at the very end,
-and that's there because it will flow into the next tune.
+and that's there in order to make it flow into the next tune.
 You can email entries to
 [pete.peterson.music@gmail.com](mailto:pete.peterson.music@gmail.com)
 with the subject:
 "Human vs AI drums".
-Have fun, humans!
+Have fun, humans, and beat those robots!
 
-## The audio
+## The inputs
 
 You can download a WAV file of the guitars and piano [here](TODO).
 A MIDI file of just the piano, from which you can extract a tempo track,
 can be downloaded [here](TODO).
 
-## The prompt
+### The prompt
 
 Create some fun and exciting drums for this prog-metal song with
 some honky-tonk vibes.
