@@ -46,8 +46,8 @@ In this experiment we pit AI against humans to see
 who can create the most interesting and enjoyable drums.
 I wrote a short tune
 (likely to be track 10 on [_Greyleaf_](/music/greyleaf/))
-and will send it off to your favorite drummer
-([Travis Orbin](https://travisorbin.com))
+and will send it off to your favorite drummer,
+[Travis Orbin](https://travisorbin.com),
 with my own programmed drums omitted.
 I will feed the same audio and text prompt into an AI model,
 or maybe a few, to see what comes out.
